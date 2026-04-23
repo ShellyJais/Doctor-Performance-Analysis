@@ -8,6 +8,43 @@ import io
 import streamlit as st
 import pandas as pd
 
+import time
+import streamlit as st
+
+if "loaded" not in st.session_state:
+    st.session_state.loaded = False
+
+if not st.session_state.loaded:
+    st.markdown("""
+        <div style="
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            height:100vh;
+            flex-direction:column;
+        ">
+            <h1 style="
+                font-size:60px;
+                color:#1E3A8A;
+                animation: fadeIn 1.5s ease-in-out;
+            ">
+                MedMetrics
+            </h1>
+            <p style="color:gray;">Doctor Performance Analytics</p>
+        </div>
+
+        <style>
+        @keyframes fadeIn {
+            from {opacity: 0;}
+            to {opacity: 1;}
+        }
+        </style>
+    """, unsafe_allow_html=True)
+
+    time.sleep(2)
+    st.session_state.loaded = True
+    st.rerun()
+
 from data_ingestion import load_dataset, validate_schema, REQUIRED_COLUMNS
 from preprocessing import clean_dataset
 from kpi_engine import compute_kpis, monthly_success_trend, specialization_summary
@@ -15,6 +52,23 @@ from visualization import bar_top_doctors, line_trend, radar_compare, heatmap_sp
 from sample_data import generate_mock_dataset
 
 st.set_page_config(page_title="Doctor Performance Analysis", page_icon="🩺", layout="wide")
+st.markdown("""
+<style>
+.stButton button:hover {
+    border: 1px solid #3B82F6;
+    box-shadow: 0 0 8px rgba(59,130,246,0.4);
+}
+
+.stMetric {
+    transition: all 0.2s ease-in-out;
+}
+
+.stMetric:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    transform: translateY(-2px);
+}
+</style>
+""", unsafe_allow_html=True)
 st.title("🏥 Doctor Performance Analysis System")
 st.markdown("Analyze doctor performance using KPIs like success rate, satisfaction, and efficiency.")
 
