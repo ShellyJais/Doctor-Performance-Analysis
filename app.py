@@ -15,6 +15,8 @@ from visualization import bar_top_doctors, line_trend, radar_compare, heatmap_sp
 from sample_data import generate_mock_dataset
 
 st.set_page_config(page_title="Doctor Performance Analysis", page_icon="🩺", layout="wide")
+st.title("🏥 Doctor Performance Analysis System")
+st.markdown("Analyze doctor performance using KPIs like success rate, satisfaction, and efficiency.")
 
 # ---------- Sidebar ----------
 st.sidebar.title("🩺 MedMetrics")
