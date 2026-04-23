@@ -1,0 +1,1188 @@
+doctor_id,doctor_name,specialization,patient_id,treatment_outcome,satisfaction_score,consultation_time_min,readmitted,diagnosis_correct,date
+D001,Dr. Aisha Khan,Cardiology,P00001,success,9,13,False,True,2024-09-17
+D001,Dr. Aisha Khan,Cardiology,P00002,success,7,25,False,True,2024-11-18
+D001,Dr. Aisha Khan,Cardiology,P00003,success,8,17,False,True,2024-10-24
+D001,Dr. Aisha Khan,Cardiology,P00004,success,9,36,False,False,2024-09-19
+D001,Dr. Aisha Khan,Cardiology,P00005,success,8,26,False,True,2024-12-08
+D001,Dr. Aisha Khan,Cardiology,P00006,success,9,43,False,True,2024-07-14
+D001,Dr. Aisha Khan,Cardiology,P00007,success,7,26,False,True,2024-09-23
+D001,Dr. Aisha Khan,Cardiology,P00008,success,10,34,False,True,2024-09-17
+D001,Dr. Aisha Khan,Cardiology,P00009,success,8,33,False,True,2024-11-22
+D001,Dr. Aisha Khan,Cardiology,P00010,success,9,33,False,True,2024-10-09
+D001,Dr. Aisha Khan,Cardiology,P00011,success,8,14,False,True,2024-09-21
+D001,Dr. Aisha Khan,Cardiology,P00012,success,9,32,False,True,2024-11-21
+D001,Dr. Aisha Khan,Cardiology,P00013,success,8,17,False,True,2024-08-24
+D001,Dr. Aisha Khan,Cardiology,P00014,success,7,19,False,True,2024-07-23
+D001,Dr. Aisha Khan,Cardiology,P00015,success,9,24,False,True,2024-10-09
+D001,Dr. Aisha Khan,Cardiology,P00016,success,7,35,False,True,2024-12-10
+D001,Dr. Aisha Khan,Cardiology,P00017,success,9,25,False,True,2024-09-29
+D001,Dr. Aisha Khan,Cardiology,P00018,success,8,13,False,False,2024-09-04
+D001,Dr. Aisha Khan,Cardiology,P00019,success,8,43,False,True,2024-12-11
+D001,Dr. Aisha Khan,Cardiology,P00020,success,8,13,False,True,2024-11-04
+D001,Dr. Aisha Khan,Cardiology,P00021,success,9,16,False,True,2024-08-06
+D001,Dr. Aisha Khan,Cardiology,P00022,success,8,31,False,True,2024-10-22
+D001,Dr. Aisha Khan,Cardiology,P00023,success,7,27,False,True,2024-07-16
+D001,Dr. Aisha Khan,Cardiology,P00024,success,9,15,False,True,2024-09-19
+D001,Dr. Aisha Khan,Cardiology,P00025,success,7,43,False,True,2024-09-01
+D001,Dr. Aisha Khan,Cardiology,P00026,success,9,27,False,True,2024-10-06
+D001,Dr. Aisha Khan,Cardiology,P00027,success,8,28,False,True,2024-09-24
+D001,Dr. Aisha Khan,Cardiology,P00028,success,10,14,False,True,2024-10-28
+D001,Dr. Aisha Khan,Cardiology,P00029,success,9,35,False,True,2024-10-30
+D001,Dr. Aisha Khan,Cardiology,P00030,partial,8,11,False,True,2024-08-25
+D001,Dr. Aisha Khan,Cardiology,P00031,success,8,43,False,True,2024-11-27
+D001,Dr. Aisha Khan,Cardiology,P00032,success,10,15,False,True,2024-12-22
+D001,Dr. Aisha Khan,Cardiology,P00033,partial,9,41,False,True,2024-12-26
+D001,Dr. Aisha Khan,Cardiology,P00034,success,9,33,False,True,2024-11-10
+D001,Dr. Aisha Khan,Cardiology,P00035,success,10,18,False,True,2024-11-12
+D001,Dr. Aisha Khan,Cardiology,P00036,success,8,30,False,True,2024-08-20
+D001,Dr. Aisha Khan,Cardiology,P00037,success,10,27,False,True,2024-08-25
+D001,Dr. Aisha Khan,Cardiology,P00038,success,7,33,False,True,2024-12-14
+D001,Dr. Aisha Khan,Cardiology,P00039,success,8,38,False,True,2024-11-02
+D001,Dr. Aisha Khan,Cardiology,P00040,success,7,42,False,True,2024-07-24
+D001,Dr. Aisha Khan,Cardiology,P00041,success,10,20,False,True,2024-09-26
+D001,Dr. Aisha Khan,Cardiology,P00042,success,9,13,False,True,2024-07-02
+D001,Dr. Aisha Khan,Cardiology,P00043,success,10,38,False,True,2024-12-21
+D001,Dr. Aisha Khan,Cardiology,P00044,success,7,39,False,True,2024-08-30
+D001,Dr. Aisha Khan,Cardiology,P00045,success,10,31,False,True,2024-10-04
+D001,Dr. Aisha Khan,Cardiology,P00046,success,9,40,False,True,2024-08-18
+D001,Dr. Aisha Khan,Cardiology,P00047,success,10,13,False,True,2024-08-12
+D001,Dr. Aisha Khan,Cardiology,P00048,success,10,20,False,True,2024-10-16
+D001,Dr. Aisha Khan,Cardiology,P00049,success,8,14,False,True,2024-07-30
+D001,Dr. Aisha Khan,Cardiology,P00050,success,7,30,False,True,2024-11-27
+D001,Dr. Aisha Khan,Cardiology,P00051,success,10,39,False,True,2024-08-27
+D001,Dr. Aisha Khan,Cardiology,P00052,success,8,29,False,True,2024-07-02
+D001,Dr. Aisha Khan,Cardiology,P00053,success,7,39,False,True,2024-09-06
+D001,Dr. Aisha Khan,Cardiology,P00054,success,10,41,False,True,2024-10-13
+D001,Dr. Aisha Khan,Cardiology,P00055,success,9,14,False,True,2024-11-18
+D001,Dr. Aisha Khan,Cardiology,P00056,success,8,23,False,True,2024-07-12
+D001,Dr. Aisha Khan,Cardiology,P00057,success,8,18,False,True,2024-07-26
+D001,Dr. Aisha Khan,Cardiology,P00058,success,8,34,False,True,2024-10-29
+D001,Dr. Aisha Khan,Cardiology,P00059,success,8,28,False,True,2024-12-12
+D001,Dr. Aisha Khan,Cardiology,P00060,success,9,32,False,True,2024-07-07
+D001,Dr. Aisha Khan,Cardiology,P00061,success,10,14,False,True,2024-08-06
+D001,Dr. Aisha Khan,Cardiology,P00062,success,7,42,False,True,2024-07-31
+D001,Dr. Aisha Khan,Cardiology,P00063,success,9,37,False,True,2024-11-22
+D001,Dr. Aisha Khan,Cardiology,P00064,success,7,31,False,True,2024-07-02
+D001,Dr. Aisha Khan,Cardiology,P00065,success,9,36,False,True,2024-10-12
+D001,Dr. Aisha Khan,Cardiology,P00066,success,10,14,False,True,2024-09-26
+D001,Dr. Aisha Khan,Cardiology,P00067,success,9,33,False,True,2024-10-27
+D001,Dr. Aisha Khan,Cardiology,P00068,success,8,22,False,True,2024-12-21
+D001,Dr. Aisha Khan,Cardiology,P00069,partial,8,23,False,True,2024-07-27
+D001,Dr. Aisha Khan,Cardiology,P00070,partial,9,26,False,False,2024-07-01
+D001,Dr. Aisha Khan,Cardiology,P00071,partial,7,39,False,True,2024-11-07
+D001,Dr. Aisha Khan,Cardiology,P00072,success,9,10,False,True,2024-09-16
+D001,Dr. Aisha Khan,Cardiology,P00073,success,8,20,False,True,2024-08-23
+D001,Dr. Aisha Khan,Cardiology,P00074,success,10,40,False,True,2024-07-08
+D001,Dr. Aisha Khan,Cardiology,P00075,partial,9,32,False,True,2024-07-20
+D001,Dr. Aisha Khan,Cardiology,P00076,success,8,15,False,True,2024-07-03
+D001,Dr. Aisha Khan,Cardiology,P00077,success,7,10,False,True,2024-12-11
+D001,Dr. Aisha Khan,Cardiology,P00078,success,8,39,False,True,2024-12-22
+D001,Dr. Aisha Khan,Cardiology,P00079,success,9,39,False,True,2024-12-15
+D001,Dr. Aisha Khan,Cardiology,P00080,success,9,36,False,True,2024-09-19
+D001,Dr. Aisha Khan,Cardiology,P00081,success,8,19,False,False,2024-07-28
+D001,Dr. Aisha Khan,Cardiology,P00082,success,7,31,False,True,2024-09-21
+D001,Dr. Aisha Khan,Cardiology,P00083,success,7,16,False,True,2024-11-05
+D001,Dr. Aisha Khan,Cardiology,P00084,success,9,30,False,True,2024-10-06
+D001,Dr. Aisha Khan,Cardiology,P00085,success,9,32,False,True,2024-08-24
+D001,Dr. Aisha Khan,Cardiology,P00086,success,8,26,False,True,2024-12-18
+D001,Dr. Aisha Khan,Cardiology,P00087,success,8,31,False,True,2024-08-20
+D001,Dr. Aisha Khan,Cardiology,P00088,success,8,30,False,True,2024-08-23
+D001,Dr. Aisha Khan,Cardiology,P00089,success,8,30,False,True,2024-09-14
+D001,Dr. Aisha Khan,Cardiology,P00090,success,9,21,False,True,2024-08-05
+D001,Dr. Aisha Khan,Cardiology,P00091,success,8,27,False,True,2024-09-16
+D001,Dr. Aisha Khan,Cardiology,P00092,partial,9,28,False,True,2024-10-02
+D001,Dr. Aisha Khan,Cardiology,P00093,success,7,12,False,True,2024-11-28
+D001,Dr. Aisha Khan,Cardiology,P00094,success,8,16,False,True,2024-12-10
+D001,Dr. Aisha Khan,Cardiology,P00095,success,10,23,False,True,2024-07-03
+D001,Dr. Aisha Khan,Cardiology,P00096,success,8,43,False,True,2024-09-15
+D001,Dr. Aisha Khan,Cardiology,P00097,success,9,23,False,True,2024-08-25
+D001,Dr. Aisha Khan,Cardiology,P00098,success,9,15,False,True,2024-12-13
+D001,Dr. Aisha Khan,Cardiology,P00099,success,10,44,False,True,2024-12-26
+D001,Dr. Aisha Khan,Cardiology,P00100,success,7,36,False,True,2024-12-13
+D001,Dr. Aisha Khan,Cardiology,P00101,success,10,11,False,True,2024-07-28
+D001,Dr. Aisha Khan,Cardiology,P00102,success,9,27,False,True,2024-11-29
+D001,Dr. Aisha Khan,Cardiology,P00103,success,9,33,False,True,2024-11-29
+D001,Dr. Aisha Khan,Cardiology,P00104,success,9,21,False,True,2024-10-04
+D001,Dr. Aisha Khan,Cardiology,P00105,success,9,41,False,True,2024-11-16
+D001,Dr. Aisha Khan,Cardiology,P00106,success,9,28,False,True,2024-12-27
+D001,Dr. Aisha Khan,Cardiology,P00107,success,8,21,False,True,2024-12-13
+D001,Dr. Aisha Khan,Cardiology,P00108,partial,8,20,False,True,2024-09-13
+D001,Dr. Aisha Khan,Cardiology,P00109,success,9,44,False,True,2024-08-20
+D001,Dr. Aisha Khan,Cardiology,P00110,success,10,35,False,True,2024-09-21
+D001,Dr. Aisha Khan,Cardiology,P00111,success,9,25,False,True,2024-12-04
+D001,Dr. Aisha Khan,Cardiology,P00112,partial,10,20,False,True,2024-10-23
+D002,Dr. Ben Carter,Neurology,P00113,success,7,27,True,True,2024-08-28
+D002,Dr. Ben Carter,Neurology,P00114,success,7,12,False,False,2024-12-24
+D002,Dr. Ben Carter,Neurology,P00115,failure,7,11,False,True,2024-09-05
+D002,Dr. Ben Carter,Neurology,P00116,partial,7,37,True,False,2024-07-20
+D002,Dr. Ben Carter,Neurology,P00117,failure,5,18,False,False,2024-09-18
+D002,Dr. Ben Carter,Neurology,P00118,success,7,11,False,False,2024-07-01
+D002,Dr. Ben Carter,Neurology,P00119,partial,5,39,False,False,2024-12-10
+D002,Dr. Ben Carter,Neurology,P00120,success,6,19,True,True,2024-08-23
+D002,Dr. Ben Carter,Neurology,P00121,success,6,35,True,False,2024-10-23
+D002,Dr. Ben Carter,Neurology,P00122,success,5,30,True,False,2024-08-23
+D002,Dr. Ben Carter,Neurology,P00123,success,6,42,False,True,2024-07-19
+D002,Dr. Ben Carter,Neurology,P00124,success,5,10,False,True,2024-09-04
+D002,Dr. Ben Carter,Neurology,P00125,success,6,43,True,True,2024-12-24
+D002,Dr. Ben Carter,Neurology,P00126,failure,5,21,True,True,2024-08-21
+D002,Dr. Ben Carter,Neurology,P00127,partial,6,32,False,True,2024-08-23
+D002,Dr. Ben Carter,Neurology,P00128,success,7,19,False,False,2024-08-28
+D002,Dr. Ben Carter,Neurology,P00129,failure,6,26,True,True,2024-08-16
+D002,Dr. Ben Carter,Neurology,P00130,failure,7,16,False,True,2024-11-24
+D002,Dr. Ben Carter,Neurology,P00131,partial,7,27,False,True,2024-12-16
+D002,Dr. Ben Carter,Neurology,P00132,success,5,18,False,True,2024-12-20
+D002,Dr. Ben Carter,Neurology,P00133,success,5,11,False,True,2024-11-17
+D002,Dr. Ben Carter,Neurology,P00134,partial,5,20,False,True,2024-07-11
+D002,Dr. Ben Carter,Neurology,P00135,success,5,40,False,True,2024-08-19
+D002,Dr. Ben Carter,Neurology,P00136,success,6,37,True,True,2024-09-27
+D002,Dr. Ben Carter,Neurology,P00137,success,5,26,False,True,2024-11-11
+D002,Dr. Ben Carter,Neurology,P00138,failure,5,26,False,True,2024-08-29
+D002,Dr. Ben Carter,Neurology,P00139,success,5,42,False,True,2024-11-24
+D002,Dr. Ben Carter,Neurology,P00140,success,6,18,False,True,2024-07-06
+D002,Dr. Ben Carter,Neurology,P00141,failure,5,39,False,True,2024-12-09
+D002,Dr. Ben Carter,Neurology,P00142,failure,5,42,False,True,2024-11-17
+D002,Dr. Ben Carter,Neurology,P00143,failure,6,38,False,False,2024-07-21
+D002,Dr. Ben Carter,Neurology,P00144,success,6,21,False,True,2024-10-17
+D002,Dr. Ben Carter,Neurology,P00145,success,5,15,False,False,2024-08-24
+D002,Dr. Ben Carter,Neurology,P00146,success,7,30,False,True,2024-11-10
+D002,Dr. Ben Carter,Neurology,P00147,partial,5,27,True,True,2024-12-14
+D002,Dr. Ben Carter,Neurology,P00148,failure,6,14,True,False,2024-07-03
+D002,Dr. Ben Carter,Neurology,P00149,success,6,19,False,True,2024-07-24
+D002,Dr. Ben Carter,Neurology,P00150,partial,7,10,False,True,2024-08-23
+D002,Dr. Ben Carter,Neurology,P00151,failure,5,31,False,True,2024-11-13
+D002,Dr. Ben Carter,Neurology,P00152,partial,6,36,True,True,2024-10-30
+D002,Dr. Ben Carter,Neurology,P00153,success,5,37,False,True,2024-12-17
+D002,Dr. Ben Carter,Neurology,P00154,failure,6,33,False,False,2024-07-17
+D002,Dr. Ben Carter,Neurology,P00155,success,5,40,True,True,2024-08-31
+D002,Dr. Ben Carter,Neurology,P00156,partial,7,23,False,False,2024-09-23
+D002,Dr. Ben Carter,Neurology,P00157,partial,7,29,False,False,2024-11-03
+D002,Dr. Ben Carter,Neurology,P00158,failure,5,17,False,True,2024-12-03
+D002,Dr. Ben Carter,Neurology,P00159,failure,6,35,True,True,2024-10-21
+D002,Dr. Ben Carter,Neurology,P00160,partial,6,24,False,False,2024-08-27
+D002,Dr. Ben Carter,Neurology,P00161,success,5,23,False,True,2024-08-29
+D002,Dr. Ben Carter,Neurology,P00162,partial,6,43,False,True,2024-07-30
+D002,Dr. Ben Carter,Neurology,P00163,failure,7,19,False,True,2024-09-25
+D002,Dr. Ben Carter,Neurology,P00164,success,5,11,False,False,2024-10-02
+D002,Dr. Ben Carter,Neurology,P00165,partial,6,13,False,True,2024-08-26
+D002,Dr. Ben Carter,Neurology,P00166,failure,7,44,True,False,2024-11-15
+D002,Dr. Ben Carter,Neurology,P00167,success,5,20,False,True,2024-11-24
+D002,Dr. Ben Carter,Neurology,P00168,partial,6,15,False,True,2024-11-30
+D002,Dr. Ben Carter,Neurology,P00169,failure,6,35,False,True,2024-11-28
+D002,Dr. Ben Carter,Neurology,P00170,failure,7,17,True,True,2024-09-11
+D002,Dr. Ben Carter,Neurology,P00171,failure,5,19,True,True,2024-10-26
+D002,Dr. Ben Carter,Neurology,P00172,success,5,34,True,False,2024-09-13
+D002,Dr. Ben Carter,Neurology,P00173,success,6,18,False,True,2024-07-07
+D002,Dr. Ben Carter,Neurology,P00174,failure,7,28,False,True,2024-12-17
+D002,Dr. Ben Carter,Neurology,P00175,success,6,14,False,False,2024-07-17
+D002,Dr. Ben Carter,Neurology,P00176,failure,5,29,False,True,2024-09-25
+D002,Dr. Ben Carter,Neurology,P00177,success,5,42,False,True,2024-07-13
+D002,Dr. Ben Carter,Neurology,P00178,success,6,16,True,False,2024-09-22
+D002,Dr. Ben Carter,Neurology,P00179,partial,6,15,True,True,2024-10-09
+D002,Dr. Ben Carter,Neurology,P00180,success,7,31,True,False,2024-07-10
+D002,Dr. Ben Carter,Neurology,P00181,success,7,25,False,True,2024-10-08
+D002,Dr. Ben Carter,Neurology,P00182,success,5,26,False,True,2024-12-26
+D002,Dr. Ben Carter,Neurology,P00183,partial,6,42,False,False,2024-11-07
+D002,Dr. Ben Carter,Neurology,P00184,partial,6,26,True,True,2024-09-21
+D002,Dr. Ben Carter,Neurology,P00185,success,7,39,False,True,2024-08-22
+D002,Dr. Ben Carter,Neurology,P00186,failure,7,28,False,True,2024-12-08
+D002,Dr. Ben Carter,Neurology,P00187,failure,6,35,False,True,2024-07-27
+D002,Dr. Ben Carter,Neurology,P00188,success,7,24,False,True,2024-11-07
+D002,Dr. Ben Carter,Neurology,P00189,success,6,14,False,True,2024-07-24
+D002,Dr. Ben Carter,Neurology,P00190,partial,5,21,False,False,2024-10-26
+D002,Dr. Ben Carter,Neurology,P00191,failure,5,33,False,True,2024-11-15
+D002,Dr. Ben Carter,Neurology,P00192,success,7,41,False,True,2024-07-25
+D002,Dr. Ben Carter,Neurology,P00193,partial,7,31,False,True,2024-07-12
+D002,Dr. Ben Carter,Neurology,P00194,failure,6,33,False,True,2024-08-27
+D002,Dr. Ben Carter,Neurology,P00195,failure,6,25,True,False,2024-08-29
+D002,Dr. Ben Carter,Neurology,P00196,success,6,32,False,True,2024-08-27
+D002,Dr. Ben Carter,Neurology,P00197,failure,7,39,True,False,2024-12-27
+D002,Dr. Ben Carter,Neurology,P00198,failure,6,25,False,True,2024-11-15
+D002,Dr. Ben Carter,Neurology,P00199,success,5,30,False,True,2024-10-27
+D003,Dr. Chen Wei,Pediatrics,P00200,success,7,21,False,True,2024-08-12
+D003,Dr. Chen Wei,Pediatrics,P00201,success,8,23,False,True,2024-07-25
+D003,Dr. Chen Wei,Pediatrics,P00202,success,9,31,False,True,2024-10-22
+D003,Dr. Chen Wei,Pediatrics,P00203,success,10,19,False,True,2024-07-13
+D003,Dr. Chen Wei,Pediatrics,P00204,success,10,16,False,True,2024-08-13
+D003,Dr. Chen Wei,Pediatrics,P00205,success,9,44,False,True,2024-09-29
+D003,Dr. Chen Wei,Pediatrics,P00206,success,10,44,False,True,2024-08-02
+D003,Dr. Chen Wei,Pediatrics,P00207,success,9,22,False,True,2024-09-15
+D003,Dr. Chen Wei,Pediatrics,P00208,success,9,21,False,True,2024-07-31
+D003,Dr. Chen Wei,Pediatrics,P00209,success,8,40,False,True,2024-09-27
+D003,Dr. Chen Wei,Pediatrics,P00210,success,8,11,False,True,2024-12-01
+D003,Dr. Chen Wei,Pediatrics,P00211,success,9,38,False,True,2024-11-17
+D003,Dr. Chen Wei,Pediatrics,P00212,success,10,28,False,True,2024-09-15
+D003,Dr. Chen Wei,Pediatrics,P00213,success,8,36,False,True,2024-09-10
+D003,Dr. Chen Wei,Pediatrics,P00214,success,9,17,False,True,2024-12-21
+D003,Dr. Chen Wei,Pediatrics,P00215,success,8,16,False,True,2024-07-22
+D003,Dr. Chen Wei,Pediatrics,P00216,partial,8,32,False,True,2024-08-03
+D003,Dr. Chen Wei,Pediatrics,P00217,partial,10,16,False,True,2024-12-05
+D003,Dr. Chen Wei,Pediatrics,P00218,success,10,29,False,True,2024-09-05
+D003,Dr. Chen Wei,Pediatrics,P00219,success,8,31,False,True,2024-11-05
+D003,Dr. Chen Wei,Pediatrics,P00220,success,10,38,False,True,2024-11-13
+D003,Dr. Chen Wei,Pediatrics,P00221,success,8,29,False,True,2024-08-18
+D003,Dr. Chen Wei,Pediatrics,P00222,success,8,41,False,True,2024-11-29
+D003,Dr. Chen Wei,Pediatrics,P00223,success,9,42,False,True,2024-12-08
+D003,Dr. Chen Wei,Pediatrics,P00224,success,8,33,False,True,2024-09-13
+D003,Dr. Chen Wei,Pediatrics,P00225,success,8,14,False,True,2024-08-07
+D003,Dr. Chen Wei,Pediatrics,P00226,success,8,22,False,True,2024-09-14
+D003,Dr. Chen Wei,Pediatrics,P00227,success,10,13,False,True,2024-08-06
+D003,Dr. Chen Wei,Pediatrics,P00228,success,8,39,False,True,2024-11-02
+D003,Dr. Chen Wei,Pediatrics,P00229,partial,8,24,False,True,2024-10-03
+D003,Dr. Chen Wei,Pediatrics,P00230,success,10,15,False,True,2024-10-04
+D003,Dr. Chen Wei,Pediatrics,P00231,partial,9,23,False,True,2024-09-27
+D003,Dr. Chen Wei,Pediatrics,P00232,success,8,13,False,True,2024-10-12
+D003,Dr. Chen Wei,Pediatrics,P00233,success,9,32,False,True,2024-09-03
+D003,Dr. Chen Wei,Pediatrics,P00234,success,8,25,False,True,2024-08-22
+D003,Dr. Chen Wei,Pediatrics,P00235,success,8,22,False,True,2024-10-27
+D003,Dr. Chen Wei,Pediatrics,P00236,success,10,23,False,True,2024-11-14
+D003,Dr. Chen Wei,Pediatrics,P00237,success,10,42,False,True,2024-11-13
+D003,Dr. Chen Wei,Pediatrics,P00238,success,10,23,False,True,2024-12-24
+D003,Dr. Chen Wei,Pediatrics,P00239,success,9,29,False,True,2024-07-01
+D003,Dr. Chen Wei,Pediatrics,P00240,success,9,26,False,True,2024-12-16
+D003,Dr. Chen Wei,Pediatrics,P00241,success,9,29,False,True,2024-08-29
+D003,Dr. Chen Wei,Pediatrics,P00242,success,9,28,False,True,2024-11-20
+D003,Dr. Chen Wei,Pediatrics,P00243,success,9,40,False,True,2024-12-02
+D003,Dr. Chen Wei,Pediatrics,P00244,success,9,29,False,True,2024-12-11
+D003,Dr. Chen Wei,Pediatrics,P00245,success,9,14,False,True,2024-09-15
+D003,Dr. Chen Wei,Pediatrics,P00246,success,8,40,False,True,2024-09-30
+D003,Dr. Chen Wei,Pediatrics,P00247,success,8,33,False,True,2024-09-22
+D003,Dr. Chen Wei,Pediatrics,P00248,success,9,28,False,True,2024-10-12
+D003,Dr. Chen Wei,Pediatrics,P00249,success,8,43,False,True,2024-08-03
+D003,Dr. Chen Wei,Pediatrics,P00250,partial,8,32,False,True,2024-09-03
+D003,Dr. Chen Wei,Pediatrics,P00251,success,8,28,False,True,2024-09-16
+D003,Dr. Chen Wei,Pediatrics,P00252,success,10,20,False,True,2024-08-25
+D003,Dr. Chen Wei,Pediatrics,P00253,success,8,12,False,True,2024-12-16
+D003,Dr. Chen Wei,Pediatrics,P00254,success,10,29,False,True,2024-12-26
+D003,Dr. Chen Wei,Pediatrics,P00255,partial,8,16,False,True,2024-07-12
+D003,Dr. Chen Wei,Pediatrics,P00256,success,10,34,False,True,2024-10-20
+D003,Dr. Chen Wei,Pediatrics,P00257,partial,8,37,False,True,2024-11-29
+D003,Dr. Chen Wei,Pediatrics,P00258,partial,10,34,False,True,2024-12-03
+D003,Dr. Chen Wei,Pediatrics,P00259,success,9,13,False,True,2024-09-08
+D003,Dr. Chen Wei,Pediatrics,P00260,success,10,31,False,True,2024-12-02
+D003,Dr. Chen Wei,Pediatrics,P00261,partial,8,28,False,True,2024-08-07
+D003,Dr. Chen Wei,Pediatrics,P00262,success,8,15,False,True,2024-07-27
+D003,Dr. Chen Wei,Pediatrics,P00263,partial,9,31,False,True,2024-10-11
+D003,Dr. Chen Wei,Pediatrics,P00264,success,10,43,False,True,2024-09-23
+D003,Dr. Chen Wei,Pediatrics,P00265,success,10,23,False,True,2024-08-10
+D003,Dr. Chen Wei,Pediatrics,P00266,success,8,32,False,True,2024-11-23
+D003,Dr. Chen Wei,Pediatrics,P00267,success,8,42,False,True,2024-08-11
+D003,Dr. Chen Wei,Pediatrics,P00268,success,9,27,False,False,2024-07-18
+D003,Dr. Chen Wei,Pediatrics,P00269,success,9,12,False,True,2024-09-26
+D003,Dr. Chen Wei,Pediatrics,P00270,success,8,44,False,True,2024-08-20
+D003,Dr. Chen Wei,Pediatrics,P00271,success,10,32,False,True,2024-09-24
+D003,Dr. Chen Wei,Pediatrics,P00272,success,10,32,False,True,2024-11-18
+D003,Dr. Chen Wei,Pediatrics,P00273,partial,9,24,False,True,2024-10-29
+D003,Dr. Chen Wei,Pediatrics,P00274,success,9,17,False,True,2024-09-08
+D003,Dr. Chen Wei,Pediatrics,P00275,success,10,41,False,True,2024-08-05
+D003,Dr. Chen Wei,Pediatrics,P00276,partial,8,16,False,True,2024-08-04
+D003,Dr. Chen Wei,Pediatrics,P00277,success,10,16,False,True,2024-12-06
+D003,Dr. Chen Wei,Pediatrics,P00278,success,8,20,False,True,2024-11-27
+D003,Dr. Chen Wei,Pediatrics,P00279,success,9,37,False,True,2024-11-04
+D003,Dr. Chen Wei,Pediatrics,P00280,success,10,18,False,True,2024-08-11
+D003,Dr. Chen Wei,Pediatrics,P00281,success,8,36,False,True,2024-09-23
+D003,Dr. Chen Wei,Pediatrics,P00282,success,9,20,False,True,2024-10-06
+D003,Dr. Chen Wei,Pediatrics,P00283,partial,9,32,False,False,2024-11-15
+D003,Dr. Chen Wei,Pediatrics,P00284,success,10,41,False,True,2024-11-14
+D003,Dr. Chen Wei,Pediatrics,P00285,success,9,27,False,True,2024-07-15
+D003,Dr. Chen Wei,Pediatrics,P00286,success,10,13,False,True,2024-07-13
+D003,Dr. Chen Wei,Pediatrics,P00287,partial,10,41,False,True,2024-11-30
+D003,Dr. Chen Wei,Pediatrics,P00288,success,9,42,False,True,2024-10-19
+D003,Dr. Chen Wei,Pediatrics,P00289,success,8,12,False,True,2024-08-23
+D003,Dr. Chen Wei,Pediatrics,P00290,success,9,16,False,True,2024-12-24
+D003,Dr. Chen Wei,Pediatrics,P00291,partial,8,33,False,True,2024-08-17
+D003,Dr. Chen Wei,Pediatrics,P00292,success,10,19,False,True,2024-11-03
+D003,Dr. Chen Wei,Pediatrics,P00293,success,10,23,False,True,2024-08-15
+D003,Dr. Chen Wei,Pediatrics,P00294,success,9,44,False,True,2024-12-09
+D003,Dr. Chen Wei,Pediatrics,P00295,success,8,23,False,True,2024-10-02
+D003,Dr. Chen Wei,Pediatrics,P00296,success,8,24,False,True,2024-10-03
+D003,Dr. Chen Wei,Pediatrics,P00297,success,10,24,False,True,2024-10-24
+D003,Dr. Chen Wei,Pediatrics,P00298,success,10,36,False,True,2024-07-24
+D003,Dr. Chen Wei,Pediatrics,P00299,success,9,20,False,True,2024-08-06
+D003,Dr. Chen Wei,Pediatrics,P00300,success,8,19,False,True,2024-07-05
+D003,Dr. Chen Wei,Pediatrics,P00301,success,8,39,False,True,2024-12-17
+D003,Dr. Chen Wei,Pediatrics,P00302,success,9,37,False,True,2024-10-19
+D003,Dr. Chen Wei,Pediatrics,P00303,success,8,11,False,True,2024-12-01
+D003,Dr. Chen Wei,Pediatrics,P00304,success,10,14,False,True,2024-07-20
+D003,Dr. Chen Wei,Pediatrics,P00305,success,10,28,False,True,2024-11-09
+D003,Dr. Chen Wei,Pediatrics,P00306,success,8,14,False,True,2024-10-30
+D003,Dr. Chen Wei,Pediatrics,P00307,success,9,37,False,True,2024-09-29
+D003,Dr. Chen Wei,Pediatrics,P00308,success,9,28,False,True,2024-09-20
+D003,Dr. Chen Wei,Pediatrics,P00309,success,10,44,False,True,2024-12-20
+D003,Dr. Chen Wei,Pediatrics,P00310,success,10,13,False,True,2024-07-18
+D003,Dr. Chen Wei,Pediatrics,P00311,success,9,44,False,True,2024-08-21
+D003,Dr. Chen Wei,Pediatrics,P00312,success,8,31,False,True,2024-12-18
+D003,Dr. Chen Wei,Pediatrics,P00313,success,10,29,False,True,2024-07-05
+D003,Dr. Chen Wei,Pediatrics,P00314,success,10,11,False,True,2024-12-04
+D003,Dr. Chen Wei,Pediatrics,P00315,success,8,40,False,True,2024-07-10
+D003,Dr. Chen Wei,Pediatrics,P00316,success,9,37,False,True,2024-09-12
+D003,Dr. Chen Wei,Pediatrics,P00317,partial,10,32,False,True,2024-07-05
+D003,Dr. Chen Wei,Pediatrics,P00318,success,9,32,False,True,2024-11-28
+D003,Dr. Chen Wei,Pediatrics,P00319,success,9,14,False,True,2024-11-24
+D003,Dr. Chen Wei,Pediatrics,P00320,partial,8,15,False,True,2024-08-03
+D003,Dr. Chen Wei,Pediatrics,P00321,success,10,12,False,True,2024-07-22
+D003,Dr. Chen Wei,Pediatrics,P00322,success,10,32,False,True,2024-09-18
+D003,Dr. Chen Wei,Pediatrics,P00323,success,9,22,False,True,2024-10-02
+D003,Dr. Chen Wei,Pediatrics,P00324,success,8,15,False,True,2024-11-02
+D004,Dr. Diana Reyes,Orthopedics,P00325,partial,7,36,False,True,2024-09-20
+D004,Dr. Diana Reyes,Orthopedics,P00326,partial,8,29,False,True,2024-11-02
+D004,Dr. Diana Reyes,Orthopedics,P00327,success,9,31,False,True,2024-10-20
+D004,Dr. Diana Reyes,Orthopedics,P00328,success,7,25,False,True,2024-10-30
+D004,Dr. Diana Reyes,Orthopedics,P00329,success,8,36,False,True,2024-09-22
+D004,Dr. Diana Reyes,Orthopedics,P00330,success,8,27,False,False,2024-10-07
+D004,Dr. Diana Reyes,Orthopedics,P00331,success,8,31,False,True,2024-09-12
+D004,Dr. Diana Reyes,Orthopedics,P00332,success,10,27,False,False,2024-10-01
+D004,Dr. Diana Reyes,Orthopedics,P00333,success,7,17,False,True,2024-10-25
+D004,Dr. Diana Reyes,Orthopedics,P00334,success,9,11,False,True,2024-09-16
+D004,Dr. Diana Reyes,Orthopedics,P00335,partial,7,31,False,True,2024-08-25
+D004,Dr. Diana Reyes,Orthopedics,P00336,success,7,41,False,True,2024-09-13
+D004,Dr. Diana Reyes,Orthopedics,P00337,partial,10,17,False,True,2024-10-31
+D004,Dr. Diana Reyes,Orthopedics,P00338,success,10,44,False,True,2024-08-17
+D004,Dr. Diana Reyes,Orthopedics,P00339,partial,10,17,False,True,2024-08-10
+D004,Dr. Diana Reyes,Orthopedics,P00340,success,10,44,False,True,2024-08-24
+D004,Dr. Diana Reyes,Orthopedics,P00341,success,8,29,False,True,2024-10-12
+D004,Dr. Diana Reyes,Orthopedics,P00342,success,9,21,False,True,2024-10-23
+D004,Dr. Diana Reyes,Orthopedics,P00343,success,9,25,False,True,2024-12-25
+D004,Dr. Diana Reyes,Orthopedics,P00344,success,8,16,False,True,2024-10-08
+D004,Dr. Diana Reyes,Orthopedics,P00345,success,7,30,False,True,2024-07-19
+D004,Dr. Diana Reyes,Orthopedics,P00346,success,8,25,False,True,2024-07-28
+D004,Dr. Diana Reyes,Orthopedics,P00347,partial,7,16,False,True,2024-10-31
+D004,Dr. Diana Reyes,Orthopedics,P00348,success,9,35,False,False,2024-07-28
+D004,Dr. Diana Reyes,Orthopedics,P00349,success,8,26,False,True,2024-11-10
+D004,Dr. Diana Reyes,Orthopedics,P00350,success,9,10,False,True,2024-07-09
+D004,Dr. Diana Reyes,Orthopedics,P00351,success,9,38,False,True,2024-12-03
+D004,Dr. Diana Reyes,Orthopedics,P00352,success,7,11,False,True,2024-09-24
+D004,Dr. Diana Reyes,Orthopedics,P00353,success,7,38,False,True,2024-10-18
+D004,Dr. Diana Reyes,Orthopedics,P00354,success,10,43,False,True,2024-12-15
+D004,Dr. Diana Reyes,Orthopedics,P00355,partial,9,43,False,True,2024-07-13
+D004,Dr. Diana Reyes,Orthopedics,P00356,success,9,24,False,True,2024-11-30
+D004,Dr. Diana Reyes,Orthopedics,P00357,success,7,35,False,True,2024-11-08
+D004,Dr. Diana Reyes,Orthopedics,P00358,success,10,35,False,True,2024-09-30
+D004,Dr. Diana Reyes,Orthopedics,P00359,success,8,42,False,True,2024-12-18
+D004,Dr. Diana Reyes,Orthopedics,P00360,success,9,18,False,False,2024-12-02
+D004,Dr. Diana Reyes,Orthopedics,P00361,success,9,44,False,True,2024-10-29
+D004,Dr. Diana Reyes,Orthopedics,P00362,success,7,26,False,True,2024-10-30
+D004,Dr. Diana Reyes,Orthopedics,P00363,success,9,28,False,True,2024-11-22
+D004,Dr. Diana Reyes,Orthopedics,P00364,success,7,40,False,True,2024-12-19
+D004,Dr. Diana Reyes,Orthopedics,P00365,success,9,11,False,True,2024-08-07
+D004,Dr. Diana Reyes,Orthopedics,P00366,success,8,19,False,True,2024-09-18
+D004,Dr. Diana Reyes,Orthopedics,P00367,success,9,13,False,True,2024-08-30
+D004,Dr. Diana Reyes,Orthopedics,P00368,success,9,23,False,True,2024-09-21
+D004,Dr. Diana Reyes,Orthopedics,P00369,success,8,22,False,True,2024-07-18
+D004,Dr. Diana Reyes,Orthopedics,P00370,partial,7,31,False,True,2024-11-18
+D004,Dr. Diana Reyes,Orthopedics,P00371,success,9,42,True,True,2024-09-04
+D004,Dr. Diana Reyes,Orthopedics,P00372,success,7,21,True,True,2024-09-19
+D004,Dr. Diana Reyes,Orthopedics,P00373,success,9,21,False,False,2024-08-22
+D004,Dr. Diana Reyes,Orthopedics,P00374,success,7,43,False,True,2024-09-24
+D004,Dr. Diana Reyes,Orthopedics,P00375,success,8,42,False,False,2024-12-23
+D004,Dr. Diana Reyes,Orthopedics,P00376,success,9,25,False,True,2024-08-16
+D004,Dr. Diana Reyes,Orthopedics,P00377,success,8,44,False,True,2024-08-05
+D004,Dr. Diana Reyes,Orthopedics,P00378,success,7,33,False,True,2024-07-06
+D004,Dr. Diana Reyes,Orthopedics,P00379,success,8,22,False,True,2024-10-26
+D004,Dr. Diana Reyes,Orthopedics,P00380,partial,8,17,False,True,2024-09-04
+D004,Dr. Diana Reyes,Orthopedics,P00381,success,8,14,False,True,2024-08-31
+D004,Dr. Diana Reyes,Orthopedics,P00382,success,10,31,False,True,2024-07-24
+D004,Dr. Diana Reyes,Orthopedics,P00383,failure,8,15,False,True,2024-11-18
+D004,Dr. Diana Reyes,Orthopedics,P00384,success,7,42,False,True,2024-08-02
+D004,Dr. Diana Reyes,Orthopedics,P00385,success,7,19,False,True,2024-08-19
+D004,Dr. Diana Reyes,Orthopedics,P00386,success,8,21,False,True,2024-08-04
+D004,Dr. Diana Reyes,Orthopedics,P00387,success,7,36,True,False,2024-07-09
+D004,Dr. Diana Reyes,Orthopedics,P00388,success,8,37,False,True,2024-09-29
+D004,Dr. Diana Reyes,Orthopedics,P00389,partial,8,36,False,True,2024-07-13
+D004,Dr. Diana Reyes,Orthopedics,P00390,success,10,36,False,True,2024-12-15
+D004,Dr. Diana Reyes,Orthopedics,P00391,success,9,37,False,True,2024-09-01
+D004,Dr. Diana Reyes,Orthopedics,P00392,success,8,11,False,True,2024-07-18
+D004,Dr. Diana Reyes,Orthopedics,P00393,success,8,40,False,True,2024-12-13
+D004,Dr. Diana Reyes,Orthopedics,P00394,success,8,24,False,True,2024-09-15
+D004,Dr. Diana Reyes,Orthopedics,P00395,success,8,29,False,True,2024-12-21
+D004,Dr. Diana Reyes,Orthopedics,P00396,partial,9,43,False,True,2024-08-16
+D004,Dr. Diana Reyes,Orthopedics,P00397,success,7,38,False,True,2024-07-30
+D004,Dr. Diana Reyes,Orthopedics,P00398,success,8,35,False,True,2024-12-15
+D004,Dr. Diana Reyes,Orthopedics,P00399,success,7,27,False,True,2024-09-07
+D004,Dr. Diana Reyes,Orthopedics,P00400,partial,9,16,False,True,2024-07-22
+D004,Dr. Diana Reyes,Orthopedics,P00401,success,8,15,False,False,2024-11-15
+D004,Dr. Diana Reyes,Orthopedics,P00402,partial,8,42,False,True,2024-09-20
+D004,Dr. Diana Reyes,Orthopedics,P00403,partial,10,21,False,True,2024-11-10
+D004,Dr. Diana Reyes,Orthopedics,P00404,success,9,18,False,True,2024-09-13
+D004,Dr. Diana Reyes,Orthopedics,P00405,success,9,21,False,True,2024-11-21
+D004,Dr. Diana Reyes,Orthopedics,P00406,success,9,14,False,True,2024-12-18
+D004,Dr. Diana Reyes,Orthopedics,P00407,success,8,12,False,True,2024-10-28
+D004,Dr. Diana Reyes,Orthopedics,P00408,success,8,31,False,True,2024-09-08
+D004,Dr. Diana Reyes,Orthopedics,P00409,success,9,23,False,False,2024-08-23
+D004,Dr. Diana Reyes,Orthopedics,P00410,partial,9,12,False,True,2024-10-02
+D005,Dr. Ethan Brooks,Oncology,P00411,success,10,14,False,True,2024-09-21
+D005,Dr. Ethan Brooks,Oncology,P00412,success,10,32,False,True,2024-10-15
+D005,Dr. Ethan Brooks,Oncology,P00413,success,8,29,False,True,2024-11-29
+D005,Dr. Ethan Brooks,Oncology,P00414,success,9,16,False,True,2024-08-25
+D005,Dr. Ethan Brooks,Oncology,P00415,success,10,36,False,True,2024-08-06
+D005,Dr. Ethan Brooks,Oncology,P00416,partial,10,31,False,True,2024-11-02
+D005,Dr. Ethan Brooks,Oncology,P00417,success,8,10,False,True,2024-07-08
+D005,Dr. Ethan Brooks,Oncology,P00418,success,9,27,False,True,2024-11-19
+D005,Dr. Ethan Brooks,Oncology,P00419,success,10,41,False,True,2024-10-02
+D005,Dr. Ethan Brooks,Oncology,P00420,success,8,22,False,True,2024-07-19
+D005,Dr. Ethan Brooks,Oncology,P00421,success,10,11,False,True,2024-11-15
+D005,Dr. Ethan Brooks,Oncology,P00422,success,9,44,False,True,2024-07-24
+D005,Dr. Ethan Brooks,Oncology,P00423,success,10,23,False,True,2024-10-12
+D005,Dr. Ethan Brooks,Oncology,P00424,success,10,40,False,True,2024-10-26
+D005,Dr. Ethan Brooks,Oncology,P00425,success,8,35,False,True,2024-07-13
+D005,Dr. Ethan Brooks,Oncology,P00426,success,10,39,False,True,2024-12-07
+D005,Dr. Ethan Brooks,Oncology,P00427,success,9,29,False,True,2024-07-11
+D005,Dr. Ethan Brooks,Oncology,P00428,success,9,44,False,True,2024-12-18
+D005,Dr. Ethan Brooks,Oncology,P00429,success,10,33,False,True,2024-07-10
+D005,Dr. Ethan Brooks,Oncology,P00430,success,9,28,False,True,2024-11-03
+D005,Dr. Ethan Brooks,Oncology,P00431,success,9,15,False,True,2024-08-24
+D005,Dr. Ethan Brooks,Oncology,P00432,success,10,39,False,True,2024-10-11
+D005,Dr. Ethan Brooks,Oncology,P00433,success,10,44,False,True,2024-07-02
+D005,Dr. Ethan Brooks,Oncology,P00434,success,10,36,False,True,2024-08-25
+D005,Dr. Ethan Brooks,Oncology,P00435,partial,9,16,False,True,2024-10-16
+D005,Dr. Ethan Brooks,Oncology,P00436,success,10,36,False,True,2024-08-06
+D005,Dr. Ethan Brooks,Oncology,P00437,success,9,21,False,True,2024-08-14
+D005,Dr. Ethan Brooks,Oncology,P00438,partial,9,28,False,True,2024-09-09
+D005,Dr. Ethan Brooks,Oncology,P00439,success,8,42,False,True,2024-08-12
+D005,Dr. Ethan Brooks,Oncology,P00440,success,8,41,False,True,2024-07-11
+D005,Dr. Ethan Brooks,Oncology,P00441,success,10,38,False,True,2024-11-02
+D005,Dr. Ethan Brooks,Oncology,P00442,success,10,43,False,True,2024-09-13
+D005,Dr. Ethan Brooks,Oncology,P00443,success,10,15,False,True,2024-09-17
+D005,Dr. Ethan Brooks,Oncology,P00444,success,10,11,False,True,2024-11-14
+D005,Dr. Ethan Brooks,Oncology,P00445,success,10,32,False,True,2024-10-14
+D005,Dr. Ethan Brooks,Oncology,P00446,success,10,13,False,True,2024-12-23
+D005,Dr. Ethan Brooks,Oncology,P00447,success,8,30,False,True,2024-12-05
+D005,Dr. Ethan Brooks,Oncology,P00448,success,10,30,False,True,2024-11-28
+D005,Dr. Ethan Brooks,Oncology,P00449,success,10,22,False,True,2024-12-03
+D005,Dr. Ethan Brooks,Oncology,P00450,success,9,43,False,True,2024-12-18
+D005,Dr. Ethan Brooks,Oncology,P00451,success,10,23,False,True,2024-07-20
+D005,Dr. Ethan Brooks,Oncology,P00452,success,10,43,False,True,2024-12-21
+D005,Dr. Ethan Brooks,Oncology,P00453,success,10,29,False,True,2024-12-14
+D005,Dr. Ethan Brooks,Oncology,P00454,success,8,33,False,True,2024-11-06
+D005,Dr. Ethan Brooks,Oncology,P00455,success,10,42,False,True,2024-08-19
+D005,Dr. Ethan Brooks,Oncology,P00456,success,9,14,False,True,2024-08-27
+D005,Dr. Ethan Brooks,Oncology,P00457,success,9,29,False,True,2024-11-28
+D005,Dr. Ethan Brooks,Oncology,P00458,success,9,31,False,True,2024-12-21
+D005,Dr. Ethan Brooks,Oncology,P00459,success,10,32,False,True,2024-12-12
+D005,Dr. Ethan Brooks,Oncology,P00460,success,8,43,False,True,2024-07-26
+D005,Dr. Ethan Brooks,Oncology,P00461,success,9,27,False,True,2024-09-06
+D005,Dr. Ethan Brooks,Oncology,P00462,success,10,23,False,True,2024-10-19
+D005,Dr. Ethan Brooks,Oncology,P00463,success,10,27,False,True,2024-08-27
+D005,Dr. Ethan Brooks,Oncology,P00464,success,10,10,False,True,2024-12-05
+D005,Dr. Ethan Brooks,Oncology,P00465,success,10,36,False,True,2024-07-06
+D005,Dr. Ethan Brooks,Oncology,P00466,success,8,13,False,True,2024-09-06
+D005,Dr. Ethan Brooks,Oncology,P00467,success,10,38,False,True,2024-07-03
+D005,Dr. Ethan Brooks,Oncology,P00468,success,10,14,False,True,2024-08-21
+D005,Dr. Ethan Brooks,Oncology,P00469,success,9,10,False,True,2024-11-28
+D005,Dr. Ethan Brooks,Oncology,P00470,success,9,24,False,True,2024-11-18
+D005,Dr. Ethan Brooks,Oncology,P00471,success,9,41,False,True,2024-10-26
+D005,Dr. Ethan Brooks,Oncology,P00472,success,10,24,False,True,2024-11-05
+D005,Dr. Ethan Brooks,Oncology,P00473,success,8,31,False,True,2024-11-13
+D005,Dr. Ethan Brooks,Oncology,P00474,success,10,38,False,True,2024-07-16
+D005,Dr. Ethan Brooks,Oncology,P00475,success,9,40,False,True,2024-08-18
+D005,Dr. Ethan Brooks,Oncology,P00476,success,10,17,False,True,2024-07-27
+D005,Dr. Ethan Brooks,Oncology,P00477,success,9,20,False,True,2024-09-15
+D005,Dr. Ethan Brooks,Oncology,P00478,success,10,32,False,True,2024-08-13
+D005,Dr. Ethan Brooks,Oncology,P00479,success,10,16,False,True,2024-09-22
+D005,Dr. Ethan Brooks,Oncology,P00480,success,10,20,False,True,2024-12-14
+D005,Dr. Ethan Brooks,Oncology,P00481,success,10,44,False,True,2024-11-21
+D005,Dr. Ethan Brooks,Oncology,P00482,success,9,42,False,True,2024-10-05
+D005,Dr. Ethan Brooks,Oncology,P00483,success,10,23,False,True,2024-07-20
+D005,Dr. Ethan Brooks,Oncology,P00484,success,10,41,False,True,2024-09-09
+D005,Dr. Ethan Brooks,Oncology,P00485,success,9,23,False,True,2024-09-23
+D005,Dr. Ethan Brooks,Oncology,P00486,success,9,38,False,True,2024-10-26
+D005,Dr. Ethan Brooks,Oncology,P00487,success,8,30,False,True,2024-11-22
+D005,Dr. Ethan Brooks,Oncology,P00488,success,10,18,False,True,2024-09-08
+D005,Dr. Ethan Brooks,Oncology,P00489,success,10,40,False,True,2024-09-07
+D005,Dr. Ethan Brooks,Oncology,P00490,success,9,40,False,True,2024-07-05
+D005,Dr. Ethan Brooks,Oncology,P00491,success,10,26,False,True,2024-09-08
+D005,Dr. Ethan Brooks,Oncology,P00492,success,10,44,False,True,2024-11-26
+D005,Dr. Ethan Brooks,Oncology,P00493,success,9,27,False,True,2024-07-26
+D005,Dr. Ethan Brooks,Oncology,P00494,success,9,38,False,True,2024-09-16
+D005,Dr. Ethan Brooks,Oncology,P00495,success,10,14,False,True,2024-07-31
+D005,Dr. Ethan Brooks,Oncology,P00496,success,9,29,False,True,2024-10-15
+D005,Dr. Ethan Brooks,Oncology,P00497,success,10,34,False,True,2024-09-21
+D005,Dr. Ethan Brooks,Oncology,P00498,success,8,36,False,True,2024-08-01
+D005,Dr. Ethan Brooks,Oncology,P00499,success,9,11,False,True,2024-08-07
+D005,Dr. Ethan Brooks,Oncology,P00500,success,8,40,False,True,2024-09-30
+D005,Dr. Ethan Brooks,Oncology,P00501,success,10,32,False,True,2024-11-03
+D005,Dr. Ethan Brooks,Oncology,P00502,success,8,43,False,True,2024-07-10
+D005,Dr. Ethan Brooks,Oncology,P00503,partial,8,37,False,True,2024-11-29
+D005,Dr. Ethan Brooks,Oncology,P00504,success,9,32,False,True,2024-10-03
+D005,Dr. Ethan Brooks,Oncology,P00505,success,8,32,False,True,2024-07-25
+D005,Dr. Ethan Brooks,Oncology,P00506,success,10,28,False,True,2024-10-06
+D005,Dr. Ethan Brooks,Oncology,P00507,success,10,44,False,True,2024-11-28
+D005,Dr. Ethan Brooks,Oncology,P00508,success,9,33,False,True,2024-07-02
+D005,Dr. Ethan Brooks,Oncology,P00509,success,10,14,False,True,2024-09-27
+D005,Dr. Ethan Brooks,Oncology,P00510,success,8,15,False,True,2024-08-07
+D005,Dr. Ethan Brooks,Oncology,P00511,success,8,29,False,True,2024-11-02
+D005,Dr. Ethan Brooks,Oncology,P00512,success,10,20,False,True,2024-12-06
+D005,Dr. Ethan Brooks,Oncology,P00513,partial,10,26,False,True,2024-12-20
+D005,Dr. Ethan Brooks,Oncology,P00514,success,9,25,False,True,2024-11-14
+D005,Dr. Ethan Brooks,Oncology,P00515,success,10,19,False,True,2024-11-01
+D005,Dr. Ethan Brooks,Oncology,P00516,success,9,25,False,True,2024-09-05
+D005,Dr. Ethan Brooks,Oncology,P00517,success,8,36,False,True,2024-10-14
+D005,Dr. Ethan Brooks,Oncology,P00518,success,10,21,False,True,2024-09-22
+D005,Dr. Ethan Brooks,Oncology,P00519,success,10,26,False,True,2024-10-27
+D005,Dr. Ethan Brooks,Oncology,P00520,success,8,24,False,True,2024-10-26
+D005,Dr. Ethan Brooks,Oncology,P00521,success,8,31,False,True,2024-10-09
+D005,Dr. Ethan Brooks,Oncology,P00522,success,8,17,False,True,2024-08-29
+D005,Dr. Ethan Brooks,Oncology,P00523,success,8,13,False,True,2024-10-04
+D005,Dr. Ethan Brooks,Oncology,P00524,success,9,10,False,True,2024-11-05
+D005,Dr. Ethan Brooks,Oncology,P00525,success,10,31,False,True,2024-07-23
+D005,Dr. Ethan Brooks,Oncology,P00526,success,10,17,False,True,2024-07-23
+D005,Dr. Ethan Brooks,Oncology,P00527,success,8,44,False,True,2024-09-08
+D005,Dr. Ethan Brooks,Oncology,P00528,partial,8,42,False,True,2024-12-05
+D005,Dr. Ethan Brooks,Oncology,P00529,success,10,25,False,True,2024-07-27
+D005,Dr. Ethan Brooks,Oncology,P00530,success,8,34,False,True,2024-12-05
+D005,Dr. Ethan Brooks,Oncology,P00531,success,8,30,False,True,2024-07-29
+D005,Dr. Ethan Brooks,Oncology,P00532,success,10,30,False,True,2024-11-07
+D005,Dr. Ethan Brooks,Oncology,P00533,success,9,21,False,True,2024-12-06
+D005,Dr. Ethan Brooks,Oncology,P00534,success,10,17,False,True,2024-10-28
+D006,Dr. Fatima Noor,General Medicine,P00535,success,8,43,True,True,2024-07-17
+D006,Dr. Fatima Noor,General Medicine,P00536,success,8,28,False,True,2024-11-17
+D006,Dr. Fatima Noor,General Medicine,P00537,success,6,41,False,False,2024-12-12
+D006,Dr. Fatima Noor,General Medicine,P00538,success,6,29,False,True,2024-07-19
+D006,Dr. Fatima Noor,General Medicine,P00539,success,6,26,False,True,2024-08-17
+D006,Dr. Fatima Noor,General Medicine,P00540,success,8,32,False,True,2024-12-15
+D006,Dr. Fatima Noor,General Medicine,P00541,failure,8,19,False,True,2024-08-04
+D006,Dr. Fatima Noor,General Medicine,P00542,success,6,29,False,True,2024-07-12
+D006,Dr. Fatima Noor,General Medicine,P00543,partial,8,20,False,True,2024-07-09
+D006,Dr. Fatima Noor,General Medicine,P00544,success,6,44,False,False,2024-09-24
+D006,Dr. Fatima Noor,General Medicine,P00545,success,6,36,False,True,2024-10-27
+D006,Dr. Fatima Noor,General Medicine,P00546,success,6,36,False,False,2024-10-15
+D006,Dr. Fatima Noor,General Medicine,P00547,partial,8,19,False,False,2024-08-14
+D006,Dr. Fatima Noor,General Medicine,P00548,success,6,23,False,True,2024-07-17
+D006,Dr. Fatima Noor,General Medicine,P00549,success,7,14,False,False,2024-07-01
+D006,Dr. Fatima Noor,General Medicine,P00550,success,8,12,False,True,2024-10-17
+D006,Dr. Fatima Noor,General Medicine,P00551,failure,8,31,False,True,2024-10-12
+D006,Dr. Fatima Noor,General Medicine,P00552,success,8,36,False,True,2024-10-23
+D006,Dr. Fatima Noor,General Medicine,P00553,failure,7,32,True,True,2024-08-07
+D006,Dr. Fatima Noor,General Medicine,P00554,success,8,37,False,True,2024-12-07
+D006,Dr. Fatima Noor,General Medicine,P00555,success,6,17,False,True,2024-11-22
+D006,Dr. Fatima Noor,General Medicine,P00556,success,8,23,False,True,2024-09-18
+D006,Dr. Fatima Noor,General Medicine,P00557,success,8,25,False,False,2024-07-13
+D006,Dr. Fatima Noor,General Medicine,P00558,partial,8,41,False,True,2024-11-24
+D006,Dr. Fatima Noor,General Medicine,P00559,success,6,17,False,True,2024-08-24
+D006,Dr. Fatima Noor,General Medicine,P00560,partial,7,17,False,True,2024-11-18
+D006,Dr. Fatima Noor,General Medicine,P00561,failure,8,42,False,False,2024-07-24
+D006,Dr. Fatima Noor,General Medicine,P00562,success,6,23,False,True,2024-09-22
+D006,Dr. Fatima Noor,General Medicine,P00563,failure,6,43,False,True,2024-07-11
+D006,Dr. Fatima Noor,General Medicine,P00564,success,8,16,True,True,2024-10-30
+D006,Dr. Fatima Noor,General Medicine,P00565,success,8,32,False,True,2024-07-28
+D006,Dr. Fatima Noor,General Medicine,P00566,success,6,19,False,True,2024-07-29
+D006,Dr. Fatima Noor,General Medicine,P00567,success,7,16,False,True,2024-08-15
+D006,Dr. Fatima Noor,General Medicine,P00568,success,9,24,True,True,2024-07-24
+D006,Dr. Fatima Noor,General Medicine,P00569,success,8,36,False,True,2024-07-13
+D006,Dr. Fatima Noor,General Medicine,P00570,success,7,16,True,True,2024-11-17
+D006,Dr. Fatima Noor,General Medicine,P00571,partial,8,35,False,False,2024-08-23
+D006,Dr. Fatima Noor,General Medicine,P00572,success,7,22,False,True,2024-08-03
+D006,Dr. Fatima Noor,General Medicine,P00573,success,6,11,True,True,2024-11-17
+D006,Dr. Fatima Noor,General Medicine,P00574,failure,6,35,False,True,2024-12-24
+D006,Dr. Fatima Noor,General Medicine,P00575,success,6,12,False,False,2024-10-27
+D006,Dr. Fatima Noor,General Medicine,P00576,success,9,33,False,False,2024-10-29
+D006,Dr. Fatima Noor,General Medicine,P00577,success,6,27,True,True,2024-11-24
+D006,Dr. Fatima Noor,General Medicine,P00578,success,6,12,False,False,2024-09-27
+D006,Dr. Fatima Noor,General Medicine,P00579,success,7,16,False,True,2024-09-26
+D006,Dr. Fatima Noor,General Medicine,P00580,success,7,29,False,True,2024-11-03
+D006,Dr. Fatima Noor,General Medicine,P00581,failure,8,42,True,True,2024-10-03
+D006,Dr. Fatima Noor,General Medicine,P00582,success,6,12,False,True,2024-12-15
+D006,Dr. Fatima Noor,General Medicine,P00583,success,8,37,False,True,2024-12-01
+D006,Dr. Fatima Noor,General Medicine,P00584,success,6,19,False,True,2024-11-12
+D006,Dr. Fatima Noor,General Medicine,P00585,partial,8,34,False,True,2024-12-24
+D006,Dr. Fatima Noor,General Medicine,P00586,success,8,26,False,True,2024-10-30
+D006,Dr. Fatima Noor,General Medicine,P00587,success,6,15,False,False,2024-08-13
+D006,Dr. Fatima Noor,General Medicine,P00588,success,7,41,False,False,2024-08-21
+D006,Dr. Fatima Noor,General Medicine,P00589,success,6,29,False,True,2024-10-19
+D006,Dr. Fatima Noor,General Medicine,P00590,success,9,29,False,True,2024-12-06
+D006,Dr. Fatima Noor,General Medicine,P00591,success,8,13,False,True,2024-08-05
+D006,Dr. Fatima Noor,General Medicine,P00592,success,8,12,False,True,2024-07-08
+D006,Dr. Fatima Noor,General Medicine,P00593,success,6,36,True,True,2024-12-16
+D006,Dr. Fatima Noor,General Medicine,P00594,success,8,34,False,False,2024-12-20
+D006,Dr. Fatima Noor,General Medicine,P00595,success,7,21,False,True,2024-09-24
+D006,Dr. Fatima Noor,General Medicine,P00596,success,6,16,False,True,2024-07-07
+D006,Dr. Fatima Noor,General Medicine,P00597,success,6,25,False,True,2024-11-09
+D006,Dr. Fatima Noor,General Medicine,P00598,success,7,43,False,True,2024-10-13
+D006,Dr. Fatima Noor,General Medicine,P00599,success,6,42,False,True,2024-12-04
+D006,Dr. Fatima Noor,General Medicine,P00600,partial,6,12,False,True,2024-12-27
+D006,Dr. Fatima Noor,General Medicine,P00601,success,8,42,False,True,2024-09-17
+D006,Dr. Fatima Noor,General Medicine,P00602,success,8,13,False,True,2024-08-22
+D006,Dr. Fatima Noor,General Medicine,P00603,success,7,34,False,True,2024-08-06
+D006,Dr. Fatima Noor,General Medicine,P00604,success,8,27,False,False,2024-11-30
+D006,Dr. Fatima Noor,General Medicine,P00605,success,6,18,False,True,2024-08-30
+D006,Dr. Fatima Noor,General Medicine,P00606,failure,7,28,False,False,2024-10-03
+D006,Dr. Fatima Noor,General Medicine,P00607,success,6,27,False,True,2024-07-25
+D006,Dr. Fatima Noor,General Medicine,P00608,partial,7,11,False,True,2024-10-15
+D006,Dr. Fatima Noor,General Medicine,P00609,success,7,22,False,True,2024-10-10
+D006,Dr. Fatima Noor,General Medicine,P00610,success,7,22,False,True,2024-10-31
+D006,Dr. Fatima Noor,General Medicine,P00611,success,7,34,False,True,2024-09-05
+D006,Dr. Fatima Noor,General Medicine,P00612,failure,6,39,False,True,2024-09-18
+D006,Dr. Fatima Noor,General Medicine,P00613,success,6,42,False,False,2024-07-06
+D006,Dr. Fatima Noor,General Medicine,P00614,partial,8,29,False,True,2024-08-21
+D006,Dr. Fatima Noor,General Medicine,P00615,success,9,25,False,True,2024-09-10
+D006,Dr. Fatima Noor,General Medicine,P00616,failure,6,35,True,True,2024-11-03
+D007,Dr. Grace Lin,Cardiology,P00617,partial,5,39,False,False,2024-11-02
+D007,Dr. Grace Lin,Cardiology,P00618,failure,7,28,False,True,2024-11-08
+D007,Dr. Grace Lin,Cardiology,P00619,partial,5,27,False,True,2024-07-19
+D007,Dr. Grace Lin,Cardiology,P00620,success,6,37,False,False,2024-08-20
+D007,Dr. Grace Lin,Cardiology,P00621,success,6,24,False,True,2024-12-02
+D007,Dr. Grace Lin,Cardiology,P00622,success,7,42,True,True,2024-08-02
+D007,Dr. Grace Lin,Cardiology,P00623,failure,5,12,False,True,2024-10-09
+D007,Dr. Grace Lin,Cardiology,P00624,success,4,30,False,True,2024-07-09
+D007,Dr. Grace Lin,Cardiology,P00625,success,7,21,False,False,2024-07-08
+D007,Dr. Grace Lin,Cardiology,P00626,success,7,34,False,True,2024-07-06
+D007,Dr. Grace Lin,Cardiology,P00627,failure,7,42,True,True,2024-07-07
+D007,Dr. Grace Lin,Cardiology,P00628,failure,6,37,False,True,2024-11-09
+D007,Dr. Grace Lin,Cardiology,P00629,failure,6,20,False,False,2024-11-13
+D007,Dr. Grace Lin,Cardiology,P00630,success,6,29,False,True,2024-11-02
+D007,Dr. Grace Lin,Cardiology,P00631,failure,7,42,False,True,2024-09-16
+D007,Dr. Grace Lin,Cardiology,P00632,partial,7,29,False,False,2024-08-09
+D007,Dr. Grace Lin,Cardiology,P00633,failure,5,27,False,True,2024-10-30
+D007,Dr. Grace Lin,Cardiology,P00634,failure,6,14,True,False,2024-11-12
+D007,Dr. Grace Lin,Cardiology,P00635,success,7,24,False,True,2024-11-14
+D007,Dr. Grace Lin,Cardiology,P00636,partial,7,29,False,False,2024-10-19
+D007,Dr. Grace Lin,Cardiology,P00637,success,7,34,True,False,2024-10-31
+D007,Dr. Grace Lin,Cardiology,P00638,failure,7,31,False,True,2024-11-23
+D007,Dr. Grace Lin,Cardiology,P00639,success,7,13,False,True,2024-11-15
+D007,Dr. Grace Lin,Cardiology,P00640,success,5,15,True,True,2024-09-26
+D007,Dr. Grace Lin,Cardiology,P00641,success,6,15,False,False,2024-07-09
+D007,Dr. Grace Lin,Cardiology,P00642,success,6,15,False,False,2024-11-09
+D007,Dr. Grace Lin,Cardiology,P00643,failure,5,21,False,True,2024-10-06
+D007,Dr. Grace Lin,Cardiology,P00644,failure,5,39,True,True,2024-08-20
+D007,Dr. Grace Lin,Cardiology,P00645,success,5,37,False,False,2024-08-31
+D007,Dr. Grace Lin,Cardiology,P00646,partial,6,34,False,False,2024-12-07
+D007,Dr. Grace Lin,Cardiology,P00647,failure,7,40,False,False,2024-08-03
+D007,Dr. Grace Lin,Cardiology,P00648,success,7,14,False,True,2024-08-20
+D007,Dr. Grace Lin,Cardiology,P00649,success,7,18,True,True,2024-08-28
+D007,Dr. Grace Lin,Cardiology,P00650,failure,7,24,False,False,2024-12-09
+D007,Dr. Grace Lin,Cardiology,P00651,success,6,37,False,False,2024-11-22
+D007,Dr. Grace Lin,Cardiology,P00652,success,7,13,False,False,2024-10-11
+D007,Dr. Grace Lin,Cardiology,P00653,failure,7,25,False,True,2024-12-04
+D007,Dr. Grace Lin,Cardiology,P00654,success,5,42,False,True,2024-08-14
+D007,Dr. Grace Lin,Cardiology,P00655,success,5,32,False,True,2024-08-14
+D007,Dr. Grace Lin,Cardiology,P00656,failure,6,34,False,True,2024-11-29
+D007,Dr. Grace Lin,Cardiology,P00657,failure,6,19,False,False,2024-08-27
+D007,Dr. Grace Lin,Cardiology,P00658,partial,6,40,False,True,2024-07-26
+D007,Dr. Grace Lin,Cardiology,P00659,success,7,30,False,True,2024-08-04
+D007,Dr. Grace Lin,Cardiology,P00660,success,7,17,True,True,2024-10-25
+D007,Dr. Grace Lin,Cardiology,P00661,success,7,16,False,False,2024-08-19
+D007,Dr. Grace Lin,Cardiology,P00662,success,6,18,True,True,2024-12-17
+D007,Dr. Grace Lin,Cardiology,P00663,success,5,21,False,True,2024-08-07
+D007,Dr. Grace Lin,Cardiology,P00664,success,7,12,False,False,2024-09-24
+D007,Dr. Grace Lin,Cardiology,P00665,partial,5,24,False,True,2024-12-08
+D007,Dr. Grace Lin,Cardiology,P00666,success,6,22,False,True,2024-07-07
+D007,Dr. Grace Lin,Cardiology,P00667,failure,7,21,False,True,2024-09-01
+D007,Dr. Grace Lin,Cardiology,P00668,success,7,15,False,True,2024-07-17
+D007,Dr. Grace Lin,Cardiology,P00669,success,5,43,False,True,2024-08-03
+D007,Dr. Grace Lin,Cardiology,P00670,success,6,13,False,False,2024-12-26
+D007,Dr. Grace Lin,Cardiology,P00671,success,5,10,False,False,2024-09-15
+D007,Dr. Grace Lin,Cardiology,P00672,success,6,33,False,True,2024-10-27
+D007,Dr. Grace Lin,Cardiology,P00673,partial,6,35,True,False,2024-08-29
+D007,Dr. Grace Lin,Cardiology,P00674,failure,7,39,True,False,2024-09-12
+D007,Dr. Grace Lin,Cardiology,P00675,failure,6,32,False,False,2024-11-22
+D007,Dr. Grace Lin,Cardiology,P00676,success,7,37,True,True,2024-10-10
+D007,Dr. Grace Lin,Cardiology,P00677,failure,7,41,False,True,2024-11-05
+D007,Dr. Grace Lin,Cardiology,P00678,success,7,18,False,False,2024-11-20
+D007,Dr. Grace Lin,Cardiology,P00679,success,5,39,False,True,2024-09-18
+D007,Dr. Grace Lin,Cardiology,P00680,partial,5,40,False,True,2024-12-02
+D007,Dr. Grace Lin,Cardiology,P00681,success,6,36,False,True,2024-07-16
+D007,Dr. Grace Lin,Cardiology,P00682,success,5,42,False,False,2024-09-24
+D008,Dr. Hiroshi Tanaka,Neurology,P00683,success,5,37,False,True,2024-08-10
+D008,Dr. Hiroshi Tanaka,Neurology,P00684,partial,7,43,False,False,2024-10-28
+D008,Dr. Hiroshi Tanaka,Neurology,P00685,failure,6,34,False,False,2024-07-19
+D008,Dr. Hiroshi Tanaka,Neurology,P00686,success,7,42,False,True,2024-12-21
+D008,Dr. Hiroshi Tanaka,Neurology,P00687,failure,7,14,False,False,2024-07-03
+D008,Dr. Hiroshi Tanaka,Neurology,P00688,success,4,15,False,True,2024-08-09
+D008,Dr. Hiroshi Tanaka,Neurology,P00689,partial,7,24,False,True,2024-08-19
+D008,Dr. Hiroshi Tanaka,Neurology,P00690,success,5,10,False,True,2024-08-07
+D008,Dr. Hiroshi Tanaka,Neurology,P00691,partial,7,37,False,True,2024-12-06
+D008,Dr. Hiroshi Tanaka,Neurology,P00692,success,6,23,False,True,2024-10-10
+D008,Dr. Hiroshi Tanaka,Neurology,P00693,partial,7,36,False,True,2024-10-09
+D008,Dr. Hiroshi Tanaka,Neurology,P00694,partial,6,19,False,False,2024-07-06
+D008,Dr. Hiroshi Tanaka,Neurology,P00695,partial,6,31,False,True,2024-08-21
+D008,Dr. Hiroshi Tanaka,Neurology,P00696,success,6,11,True,True,2024-08-22
+D008,Dr. Hiroshi Tanaka,Neurology,P00697,partial,6,32,False,False,2024-12-08
+D008,Dr. Hiroshi Tanaka,Neurology,P00698,partial,6,18,False,True,2024-09-30
+D008,Dr. Hiroshi Tanaka,Neurology,P00699,success,5,23,False,True,2024-09-07
+D008,Dr. Hiroshi Tanaka,Neurology,P00700,success,6,12,False,True,2024-11-22
+D008,Dr. Hiroshi Tanaka,Neurology,P00701,partial,5,43,False,True,2024-07-01
+D008,Dr. Hiroshi Tanaka,Neurology,P00702,partial,6,22,False,True,2024-08-16
+D008,Dr. Hiroshi Tanaka,Neurology,P00703,success,7,24,False,False,2024-07-26
+D008,Dr. Hiroshi Tanaka,Neurology,P00704,success,7,42,False,True,2024-07-04
+D008,Dr. Hiroshi Tanaka,Neurology,P00705,failure,4,44,True,False,2024-09-14
+D008,Dr. Hiroshi Tanaka,Neurology,P00706,success,6,28,False,False,2024-08-15
+D008,Dr. Hiroshi Tanaka,Neurology,P00707,partial,5,24,False,True,2024-09-16
+D008,Dr. Hiroshi Tanaka,Neurology,P00708,failure,6,28,False,True,2024-07-26
+D008,Dr. Hiroshi Tanaka,Neurology,P00709,failure,7,29,True,True,2024-07-06
+D008,Dr. Hiroshi Tanaka,Neurology,P00710,failure,6,23,False,True,2024-09-24
+D008,Dr. Hiroshi Tanaka,Neurology,P00711,success,6,25,False,False,2024-08-01
+D008,Dr. Hiroshi Tanaka,Neurology,P00712,failure,5,29,False,False,2024-09-01
+D008,Dr. Hiroshi Tanaka,Neurology,P00713,success,7,28,False,True,2024-11-04
+D008,Dr. Hiroshi Tanaka,Neurology,P00714,success,5,21,False,True,2024-07-07
+D008,Dr. Hiroshi Tanaka,Neurology,P00715,success,5,16,False,True,2024-11-27
+D008,Dr. Hiroshi Tanaka,Neurology,P00716,failure,5,13,True,True,2024-08-02
+D008,Dr. Hiroshi Tanaka,Neurology,P00717,success,7,43,False,True,2024-07-09
+D008,Dr. Hiroshi Tanaka,Neurology,P00718,failure,7,13,False,True,2024-10-15
+D008,Dr. Hiroshi Tanaka,Neurology,P00719,success,6,19,False,True,2024-09-15
+D008,Dr. Hiroshi Tanaka,Neurology,P00720,success,6,15,True,True,2024-09-28
+D008,Dr. Hiroshi Tanaka,Neurology,P00721,success,5,12,False,True,2024-10-26
+D008,Dr. Hiroshi Tanaka,Neurology,P00722,success,6,13,False,True,2024-07-26
+D008,Dr. Hiroshi Tanaka,Neurology,P00723,success,5,12,False,True,2024-07-12
+D008,Dr. Hiroshi Tanaka,Neurology,P00724,failure,7,24,False,True,2024-12-26
+D008,Dr. Hiroshi Tanaka,Neurology,P00725,success,4,13,False,True,2024-07-24
+D008,Dr. Hiroshi Tanaka,Neurology,P00726,partial,5,39,False,True,2024-08-02
+D008,Dr. Hiroshi Tanaka,Neurology,P00727,success,6,15,False,True,2024-08-21
+D008,Dr. Hiroshi Tanaka,Neurology,P00728,success,7,11,False,True,2024-08-17
+D008,Dr. Hiroshi Tanaka,Neurology,P00729,success,6,13,False,True,2024-12-24
+D008,Dr. Hiroshi Tanaka,Neurology,P00730,success,7,37,True,True,2024-08-04
+D008,Dr. Hiroshi Tanaka,Neurology,P00731,partial,6,41,False,True,2024-11-16
+D008,Dr. Hiroshi Tanaka,Neurology,P00732,success,5,23,False,False,2024-10-24
+D008,Dr. Hiroshi Tanaka,Neurology,P00733,success,7,25,True,True,2024-10-30
+D008,Dr. Hiroshi Tanaka,Neurology,P00734,success,5,18,False,True,2024-12-14
+D008,Dr. Hiroshi Tanaka,Neurology,P00735,partial,7,33,False,True,2024-10-26
+D008,Dr. Hiroshi Tanaka,Neurology,P00736,failure,5,43,False,False,2024-11-27
+D008,Dr. Hiroshi Tanaka,Neurology,P00737,failure,6,15,False,True,2024-07-25
+D008,Dr. Hiroshi Tanaka,Neurology,P00738,success,6,41,False,True,2024-11-20
+D008,Dr. Hiroshi Tanaka,Neurology,P00739,partial,6,16,False,True,2024-09-17
+D008,Dr. Hiroshi Tanaka,Neurology,P00740,success,5,25,False,True,2024-10-25
+D008,Dr. Hiroshi Tanaka,Neurology,P00741,partial,5,28,True,True,2024-07-05
+D008,Dr. Hiroshi Tanaka,Neurology,P00742,success,5,13,True,False,2024-10-20
+D008,Dr. Hiroshi Tanaka,Neurology,P00743,success,5,21,False,True,2024-08-30
+D008,Dr. Hiroshi Tanaka,Neurology,P00744,failure,5,33,False,True,2024-11-01
+D008,Dr. Hiroshi Tanaka,Neurology,P00745,failure,5,34,False,False,2024-09-27
+D008,Dr. Hiroshi Tanaka,Neurology,P00746,success,7,36,False,False,2024-10-02
+D008,Dr. Hiroshi Tanaka,Neurology,P00747,success,6,40,False,True,2024-11-04
+D008,Dr. Hiroshi Tanaka,Neurology,P00748,failure,7,23,True,True,2024-12-19
+D008,Dr. Hiroshi Tanaka,Neurology,P00749,success,6,37,True,False,2024-11-18
+D008,Dr. Hiroshi Tanaka,Neurology,P00750,success,6,27,False,True,2024-10-21
+D008,Dr. Hiroshi Tanaka,Neurology,P00751,failure,6,37,False,True,2024-11-21
+D008,Dr. Hiroshi Tanaka,Neurology,P00752,success,6,18,False,False,2024-07-07
+D008,Dr. Hiroshi Tanaka,Neurology,P00753,success,6,18,False,True,2024-09-23
+D008,Dr. Hiroshi Tanaka,Neurology,P00754,success,4,41,False,True,2024-09-24
+D008,Dr. Hiroshi Tanaka,Neurology,P00755,success,6,19,True,True,2024-07-30
+D008,Dr. Hiroshi Tanaka,Neurology,P00756,success,4,24,False,True,2024-10-23
+D008,Dr. Hiroshi Tanaka,Neurology,P00757,failure,6,44,False,False,2024-07-24
+D008,Dr. Hiroshi Tanaka,Neurology,P00758,partial,7,32,True,False,2024-10-09
+D008,Dr. Hiroshi Tanaka,Neurology,P00759,success,6,26,True,False,2024-10-26
+D008,Dr. Hiroshi Tanaka,Neurology,P00760,success,5,27,False,False,2024-07-19
+D008,Dr. Hiroshi Tanaka,Neurology,P00761,success,7,19,False,True,2024-07-18
+D008,Dr. Hiroshi Tanaka,Neurology,P00762,success,5,17,True,True,2024-12-07
+D008,Dr. Hiroshi Tanaka,Neurology,P00763,partial,7,36,False,True,2024-10-05
+D008,Dr. Hiroshi Tanaka,Neurology,P00764,success,6,22,False,True,2024-09-19
+D008,Dr. Hiroshi Tanaka,Neurology,P00765,success,5,33,False,False,2024-08-16
+D008,Dr. Hiroshi Tanaka,Neurology,P00766,success,4,21,False,True,2024-11-01
+D008,Dr. Hiroshi Tanaka,Neurology,P00767,failure,6,16,False,True,2024-11-12
+D008,Dr. Hiroshi Tanaka,Neurology,P00768,success,7,37,False,True,2024-12-23
+D009,Dr. Ivan Petrov,Pediatrics,P00769,success,8,37,False,True,2024-12-04
+D009,Dr. Ivan Petrov,Pediatrics,P00770,success,8,19,True,True,2024-12-23
+D009,Dr. Ivan Petrov,Pediatrics,P00771,partial,7,15,False,True,2024-08-05
+D009,Dr. Ivan Petrov,Pediatrics,P00772,partial,6,11,False,False,2024-12-14
+D009,Dr. Ivan Petrov,Pediatrics,P00773,failure,8,19,False,True,2024-08-20
+D009,Dr. Ivan Petrov,Pediatrics,P00774,success,7,38,False,True,2024-09-30
+D009,Dr. Ivan Petrov,Pediatrics,P00775,success,8,40,False,True,2024-12-27
+D009,Dr. Ivan Petrov,Pediatrics,P00776,success,8,20,False,True,2024-12-23
+D009,Dr. Ivan Petrov,Pediatrics,P00777,success,6,41,False,False,2024-09-02
+D009,Dr. Ivan Petrov,Pediatrics,P00778,success,9,31,False,True,2024-08-05
+D009,Dr. Ivan Petrov,Pediatrics,P00779,success,8,24,False,True,2024-07-14
+D009,Dr. Ivan Petrov,Pediatrics,P00780,success,8,26,False,False,2024-08-27
+D009,Dr. Ivan Petrov,Pediatrics,P00781,success,6,29,False,False,2024-09-02
+D009,Dr. Ivan Petrov,Pediatrics,P00782,success,7,37,False,False,2024-08-20
+D009,Dr. Ivan Petrov,Pediatrics,P00783,success,8,37,False,True,2024-07-01
+D009,Dr. Ivan Petrov,Pediatrics,P00784,partial,7,31,False,True,2024-12-08
+D009,Dr. Ivan Petrov,Pediatrics,P00785,success,8,39,True,True,2024-10-08
+D009,Dr. Ivan Petrov,Pediatrics,P00786,failure,6,26,False,True,2024-08-16
+D009,Dr. Ivan Petrov,Pediatrics,P00787,success,7,38,False,True,2024-07-04
+D009,Dr. Ivan Petrov,Pediatrics,P00788,success,6,35,True,True,2024-09-20
+D009,Dr. Ivan Petrov,Pediatrics,P00789,success,8,16,False,True,2024-12-05
+D009,Dr. Ivan Petrov,Pediatrics,P00790,success,8,34,True,True,2024-11-03
+D009,Dr. Ivan Petrov,Pediatrics,P00791,partial,6,28,False,False,2024-09-26
+D009,Dr. Ivan Petrov,Pediatrics,P00792,partial,6,26,False,True,2024-11-06
+D009,Dr. Ivan Petrov,Pediatrics,P00793,success,6,27,False,True,2024-09-16
+D009,Dr. Ivan Petrov,Pediatrics,P00794,success,8,16,True,True,2024-12-20
+D009,Dr. Ivan Petrov,Pediatrics,P00795,success,6,26,False,False,2024-10-02
+D009,Dr. Ivan Petrov,Pediatrics,P00796,success,6,35,False,True,2024-07-22
+D009,Dr. Ivan Petrov,Pediatrics,P00797,success,7,22,False,True,2024-11-14
+D009,Dr. Ivan Petrov,Pediatrics,P00798,partial,6,37,False,True,2024-09-30
+D009,Dr. Ivan Petrov,Pediatrics,P00799,success,7,30,True,True,2024-07-04
+D009,Dr. Ivan Petrov,Pediatrics,P00800,failure,6,22,False,True,2024-08-10
+D009,Dr. Ivan Petrov,Pediatrics,P00801,success,8,28,False,True,2024-07-28
+D009,Dr. Ivan Petrov,Pediatrics,P00802,success,6,16,False,True,2024-09-02
+D009,Dr. Ivan Petrov,Pediatrics,P00803,success,6,14,False,True,2024-10-15
+D009,Dr. Ivan Petrov,Pediatrics,P00804,success,8,39,False,True,2024-07-02
+D009,Dr. Ivan Petrov,Pediatrics,P00805,partial,6,20,False,True,2024-10-11
+D009,Dr. Ivan Petrov,Pediatrics,P00806,success,8,41,False,True,2024-11-01
+D009,Dr. Ivan Petrov,Pediatrics,P00807,success,7,10,False,False,2024-09-07
+D009,Dr. Ivan Petrov,Pediatrics,P00808,success,8,28,False,True,2024-10-29
+D009,Dr. Ivan Petrov,Pediatrics,P00809,success,8,24,False,True,2024-10-14
+D009,Dr. Ivan Petrov,Pediatrics,P00810,failure,6,15,False,True,2024-12-27
+D009,Dr. Ivan Petrov,Pediatrics,P00811,success,8,19,False,True,2024-12-26
+D009,Dr. Ivan Petrov,Pediatrics,P00812,success,8,28,False,False,2024-09-15
+D009,Dr. Ivan Petrov,Pediatrics,P00813,success,7,37,False,False,2024-12-22
+D009,Dr. Ivan Petrov,Pediatrics,P00814,success,8,13,False,True,2024-12-27
+D009,Dr. Ivan Petrov,Pediatrics,P00815,partial,9,13,False,True,2024-10-03
+D009,Dr. Ivan Petrov,Pediatrics,P00816,success,7,39,False,True,2024-10-30
+D009,Dr. Ivan Petrov,Pediatrics,P00817,success,7,14,False,True,2024-09-20
+D009,Dr. Ivan Petrov,Pediatrics,P00818,success,8,21,False,True,2024-12-02
+D009,Dr. Ivan Petrov,Pediatrics,P00819,success,6,20,False,True,2024-12-05
+D009,Dr. Ivan Petrov,Pediatrics,P00820,partial,6,12,False,True,2024-12-14
+D009,Dr. Ivan Petrov,Pediatrics,P00821,partial,7,35,False,True,2024-12-01
+D009,Dr. Ivan Petrov,Pediatrics,P00822,success,8,21,False,True,2024-09-29
+D009,Dr. Ivan Petrov,Pediatrics,P00823,success,8,40,False,True,2024-09-29
+D009,Dr. Ivan Petrov,Pediatrics,P00824,success,6,44,False,True,2024-10-03
+D009,Dr. Ivan Petrov,Pediatrics,P00825,failure,6,35,False,True,2024-08-19
+D009,Dr. Ivan Petrov,Pediatrics,P00826,success,6,33,False,True,2024-12-03
+D009,Dr. Ivan Petrov,Pediatrics,P00827,partial,6,34,True,True,2024-11-16
+D009,Dr. Ivan Petrov,Pediatrics,P00828,success,8,15,False,True,2024-08-08
+D009,Dr. Ivan Petrov,Pediatrics,P00829,success,7,20,True,True,2024-07-07
+D009,Dr. Ivan Petrov,Pediatrics,P00830,success,8,16,False,True,2024-11-28
+D009,Dr. Ivan Petrov,Pediatrics,P00831,success,8,37,False,False,2024-09-27
+D009,Dr. Ivan Petrov,Pediatrics,P00832,success,8,27,True,True,2024-08-03
+D009,Dr. Ivan Petrov,Pediatrics,P00833,success,7,35,False,True,2024-12-07
+D009,Dr. Ivan Petrov,Pediatrics,P00834,failure,7,16,False,True,2024-09-20
+D009,Dr. Ivan Petrov,Pediatrics,P00835,failure,8,32,False,True,2024-10-21
+D009,Dr. Ivan Petrov,Pediatrics,P00836,failure,6,13,True,False,2024-09-16
+D009,Dr. Ivan Petrov,Pediatrics,P00837,success,7,21,False,True,2024-08-24
+D009,Dr. Ivan Petrov,Pediatrics,P00838,success,7,27,False,False,2024-11-13
+D009,Dr. Ivan Petrov,Pediatrics,P00839,failure,6,31,False,True,2024-10-23
+D009,Dr. Ivan Petrov,Pediatrics,P00840,success,6,19,False,True,2024-10-05
+D009,Dr. Ivan Petrov,Pediatrics,P00841,success,6,21,False,True,2024-08-18
+D009,Dr. Ivan Petrov,Pediatrics,P00842,success,6,10,False,True,2024-09-01
+D009,Dr. Ivan Petrov,Pediatrics,P00843,failure,8,17,False,True,2024-08-19
+D009,Dr. Ivan Petrov,Pediatrics,P00844,partial,8,14,False,True,2024-11-20
+D009,Dr. Ivan Petrov,Pediatrics,P00845,failure,6,30,False,True,2024-12-04
+D009,Dr. Ivan Petrov,Pediatrics,P00846,failure,7,12,False,True,2024-10-24
+D009,Dr. Ivan Petrov,Pediatrics,P00847,success,8,19,False,True,2024-11-23
+D009,Dr. Ivan Petrov,Pediatrics,P00848,success,6,33,False,True,2024-09-12
+D009,Dr. Ivan Petrov,Pediatrics,P00849,success,8,43,False,True,2024-07-24
+D009,Dr. Ivan Petrov,Pediatrics,P00850,partial,9,22,False,True,2024-09-14
+D009,Dr. Ivan Petrov,Pediatrics,P00851,partial,7,18,False,False,2024-12-02
+D009,Dr. Ivan Petrov,Pediatrics,P00852,success,8,24,False,True,2024-12-07
+D009,Dr. Ivan Petrov,Pediatrics,P00853,failure,7,21,False,True,2024-11-17
+D009,Dr. Ivan Petrov,Pediatrics,P00854,success,6,24,False,True,2024-09-23
+D009,Dr. Ivan Petrov,Pediatrics,P00855,success,7,41,False,True,2024-11-20
+D009,Dr. Ivan Petrov,Pediatrics,P00856,success,7,27,False,True,2024-08-03
+D009,Dr. Ivan Petrov,Pediatrics,P00857,success,7,12,False,False,2024-10-06
+D009,Dr. Ivan Petrov,Pediatrics,P00858,success,7,24,False,False,2024-07-23
+D009,Dr. Ivan Petrov,Pediatrics,P00859,success,8,36,False,True,2024-08-31
+D009,Dr. Ivan Petrov,Pediatrics,P00860,success,7,17,False,True,2024-09-04
+D009,Dr. Ivan Petrov,Pediatrics,P00861,success,6,25,False,False,2024-08-21
+D009,Dr. Ivan Petrov,Pediatrics,P00862,success,6,28,False,True,2024-11-24
+D009,Dr. Ivan Petrov,Pediatrics,P00863,success,7,44,False,False,2024-12-14
+D009,Dr. Ivan Petrov,Pediatrics,P00864,success,7,42,False,True,2024-10-30
+D009,Dr. Ivan Petrov,Pediatrics,P00865,success,7,17,False,True,2024-08-19
+D009,Dr. Ivan Petrov,Pediatrics,P00866,success,6,25,False,True,2024-09-27
+D009,Dr. Ivan Petrov,Pediatrics,P00867,success,6,32,False,False,2024-09-16
+D009,Dr. Ivan Petrov,Pediatrics,P00868,failure,7,43,True,True,2024-11-06
+D009,Dr. Ivan Petrov,Pediatrics,P00869,success,8,27,False,True,2024-11-12
+D009,Dr. Ivan Petrov,Pediatrics,P00870,failure,6,16,False,True,2024-10-31
+D009,Dr. Ivan Petrov,Pediatrics,P00871,partial,7,17,False,True,2024-11-29
+D009,Dr. Ivan Petrov,Pediatrics,P00872,partial,8,24,False,True,2024-09-12
+D009,Dr. Ivan Petrov,Pediatrics,P00873,success,8,27,True,True,2024-10-13
+D009,Dr. Ivan Petrov,Pediatrics,P00874,success,6,27,False,True,2024-09-03
+D009,Dr. Ivan Petrov,Pediatrics,P00875,success,8,34,False,True,2024-11-06
+D009,Dr. Ivan Petrov,Pediatrics,P00876,success,7,37,True,True,2024-07-18
+D009,Dr. Ivan Petrov,Pediatrics,P00877,success,8,21,False,True,2024-08-23
+D009,Dr. Ivan Petrov,Pediatrics,P00878,success,6,15,True,True,2024-10-25
+D009,Dr. Ivan Petrov,Pediatrics,P00879,success,7,20,False,True,2024-08-19
+D009,Dr. Ivan Petrov,Pediatrics,P00880,success,8,17,False,False,2024-08-27
+D009,Dr. Ivan Petrov,Pediatrics,P00881,success,8,26,False,True,2024-07-23
+D009,Dr. Ivan Petrov,Pediatrics,P00882,success,7,41,False,True,2024-12-02
+D009,Dr. Ivan Petrov,Pediatrics,P00883,success,6,18,False,True,2024-10-28
+D009,Dr. Ivan Petrov,Pediatrics,P00884,success,6,34,False,True,2024-08-22
+D009,Dr. Ivan Petrov,Pediatrics,P00885,success,8,23,False,True,2024-10-08
+D009,Dr. Ivan Petrov,Pediatrics,P00886,success,7,21,True,False,2024-11-27
+D009,Dr. Ivan Petrov,Pediatrics,P00887,success,7,44,False,True,2024-07-20
+D009,Dr. Ivan Petrov,Pediatrics,P00888,success,6,34,False,True,2024-12-25
+D009,Dr. Ivan Petrov,Pediatrics,P00889,failure,8,27,False,True,2024-09-30
+D009,Dr. Ivan Petrov,Pediatrics,P00890,failure,8,30,True,True,2024-08-14
+D009,Dr. Ivan Petrov,Pediatrics,P00891,success,6,26,False,False,2024-10-31
+D009,Dr. Ivan Petrov,Pediatrics,P00892,success,8,36,False,False,2024-07-19
+D010,Dr. Julia Santos,Orthopedics,P00893,success,6,40,False,True,2024-11-30
+D010,Dr. Julia Santos,Orthopedics,P00894,success,8,20,False,True,2024-08-08
+D010,Dr. Julia Santos,Orthopedics,P00895,partial,6,32,False,True,2024-12-05
+D010,Dr. Julia Santos,Orthopedics,P00896,success,6,40,False,True,2024-11-08
+D010,Dr. Julia Santos,Orthopedics,P00897,failure,7,38,False,True,2024-11-22
+D010,Dr. Julia Santos,Orthopedics,P00898,success,6,35,False,False,2024-10-27
+D010,Dr. Julia Santos,Orthopedics,P00899,success,6,40,False,True,2024-10-29
+D010,Dr. Julia Santos,Orthopedics,P00900,success,6,27,False,True,2024-11-06
+D010,Dr. Julia Santos,Orthopedics,P00901,success,7,21,False,True,2024-10-12
+D010,Dr. Julia Santos,Orthopedics,P00902,success,7,40,False,True,2024-10-21
+D010,Dr. Julia Santos,Orthopedics,P00903,success,6,38,True,False,2024-11-16
+D010,Dr. Julia Santos,Orthopedics,P00904,success,6,20,False,True,2024-08-10
+D010,Dr. Julia Santos,Orthopedics,P00905,success,8,13,False,False,2024-08-18
+D010,Dr. Julia Santos,Orthopedics,P00906,success,7,17,False,True,2024-11-04
+D010,Dr. Julia Santos,Orthopedics,P00907,success,7,17,False,True,2024-10-23
+D010,Dr. Julia Santos,Orthopedics,P00908,success,7,37,False,True,2024-07-30
+D010,Dr. Julia Santos,Orthopedics,P00909,success,6,28,False,True,2024-11-13
+D010,Dr. Julia Santos,Orthopedics,P00910,success,7,27,False,True,2024-08-05
+D010,Dr. Julia Santos,Orthopedics,P00911,failure,8,40,False,True,2024-08-28
+D010,Dr. Julia Santos,Orthopedics,P00912,success,7,30,False,True,2024-10-18
+D010,Dr. Julia Santos,Orthopedics,P00913,partial,6,28,False,True,2024-09-05
+D010,Dr. Julia Santos,Orthopedics,P00914,success,8,36,False,True,2024-12-09
+D010,Dr. Julia Santos,Orthopedics,P00915,success,7,18,True,True,2024-11-23
+D010,Dr. Julia Santos,Orthopedics,P00916,success,8,17,False,True,2024-11-27
+D010,Dr. Julia Santos,Orthopedics,P00917,success,8,19,False,True,2024-12-24
+D010,Dr. Julia Santos,Orthopedics,P00918,success,6,15,False,True,2024-10-17
+D010,Dr. Julia Santos,Orthopedics,P00919,failure,7,31,False,True,2024-08-13
+D010,Dr. Julia Santos,Orthopedics,P00920,success,7,25,False,False,2024-09-29
+D010,Dr. Julia Santos,Orthopedics,P00921,success,7,15,False,True,2024-11-29
+D010,Dr. Julia Santos,Orthopedics,P00922,success,7,11,True,True,2024-08-01
+D010,Dr. Julia Santos,Orthopedics,P00923,partial,7,42,False,True,2024-07-04
+D010,Dr. Julia Santos,Orthopedics,P00924,success,7,44,False,True,2024-11-14
+D010,Dr. Julia Santos,Orthopedics,P00925,success,8,40,False,True,2024-10-30
+D010,Dr. Julia Santos,Orthopedics,P00926,success,8,25,False,True,2024-07-05
+D010,Dr. Julia Santos,Orthopedics,P00927,success,8,16,False,True,2024-08-31
+D010,Dr. Julia Santos,Orthopedics,P00928,success,8,31,False,True,2024-12-16
+D010,Dr. Julia Santos,Orthopedics,P00929,success,7,20,False,True,2024-11-21
+D010,Dr. Julia Santos,Orthopedics,P00930,success,7,17,True,False,2024-10-08
+D010,Dr. Julia Santos,Orthopedics,P00931,success,6,17,False,False,2024-12-23
+D010,Dr. Julia Santos,Orthopedics,P00932,success,6,17,False,True,2024-09-29
+D010,Dr. Julia Santos,Orthopedics,P00933,success,7,42,False,False,2024-07-14
+D010,Dr. Julia Santos,Orthopedics,P00934,success,8,19,False,True,2024-12-09
+D010,Dr. Julia Santos,Orthopedics,P00935,success,6,12,False,True,2024-10-03
+D010,Dr. Julia Santos,Orthopedics,P00936,success,6,44,True,True,2024-10-15
+D010,Dr. Julia Santos,Orthopedics,P00937,success,8,35,False,True,2024-08-14
+D010,Dr. Julia Santos,Orthopedics,P00938,success,8,31,False,True,2024-07-23
+D010,Dr. Julia Santos,Orthopedics,P00939,success,6,16,False,True,2024-12-22
+D010,Dr. Julia Santos,Orthopedics,P00940,success,7,10,False,True,2024-10-04
+D010,Dr. Julia Santos,Orthopedics,P00941,failure,6,28,True,True,2024-11-12
+D010,Dr. Julia Santos,Orthopedics,P00942,success,6,33,True,False,2024-10-18
+D010,Dr. Julia Santos,Orthopedics,P00943,success,7,36,False,True,2024-11-02
+D010,Dr. Julia Santos,Orthopedics,P00944,success,7,15,False,True,2024-07-31
+D010,Dr. Julia Santos,Orthopedics,P00945,failure,6,12,False,True,2024-07-26
+D010,Dr. Julia Santos,Orthopedics,P00946,failure,7,25,False,True,2024-12-21
+D010,Dr. Julia Santos,Orthopedics,P00947,success,6,13,False,True,2024-09-17
+D010,Dr. Julia Santos,Orthopedics,P00948,success,7,14,False,True,2024-07-19
+D010,Dr. Julia Santos,Orthopedics,P00949,success,8,42,False,True,2024-11-14
+D010,Dr. Julia Santos,Orthopedics,P00950,success,6,13,False,True,2024-11-06
+D010,Dr. Julia Santos,Orthopedics,P00951,success,6,20,False,True,2024-12-03
+D010,Dr. Julia Santos,Orthopedics,P00952,success,6,13,False,True,2024-10-26
+D010,Dr. Julia Santos,Orthopedics,P00953,success,6,38,False,False,2024-12-27
+D010,Dr. Julia Santos,Orthopedics,P00954,success,7,16,False,True,2024-10-17
+D010,Dr. Julia Santos,Orthopedics,P00955,success,8,22,False,True,2024-12-08
+D010,Dr. Julia Santos,Orthopedics,P00956,failure,7,43,True,False,2024-12-04
+D010,Dr. Julia Santos,Orthopedics,P00957,failure,7,36,False,True,2024-11-11
+D010,Dr. Julia Santos,Orthopedics,P00958,partial,8,20,True,True,2024-08-02
+D010,Dr. Julia Santos,Orthopedics,P00959,success,6,37,False,True,2024-09-29
+D010,Dr. Julia Santos,Orthopedics,P00960,success,7,40,False,True,2024-10-18
+D010,Dr. Julia Santos,Orthopedics,P00961,success,9,18,False,True,2024-11-11
+D010,Dr. Julia Santos,Orthopedics,P00962,success,8,21,False,True,2024-10-08
+D010,Dr. Julia Santos,Orthopedics,P00963,failure,6,16,False,True,2024-12-27
+D010,Dr. Julia Santos,Orthopedics,P00964,success,7,22,False,True,2024-08-15
+D010,Dr. Julia Santos,Orthopedics,P00965,failure,7,21,False,True,2024-12-01
+D010,Dr. Julia Santos,Orthopedics,P00966,success,6,15,False,False,2024-12-03
+D010,Dr. Julia Santos,Orthopedics,P00967,success,7,36,False,True,2024-09-19
+D010,Dr. Julia Santos,Orthopedics,P00968,success,8,34,False,False,2024-07-29
+D010,Dr. Julia Santos,Orthopedics,P00969,success,7,11,True,True,2024-11-30
+D010,Dr. Julia Santos,Orthopedics,P00970,success,8,36,False,True,2024-08-23
+D010,Dr. Julia Santos,Orthopedics,P00971,failure,8,33,False,False,2024-08-23
+D010,Dr. Julia Santos,Orthopedics,P00972,success,7,22,False,True,2024-12-15
+D010,Dr. Julia Santos,Orthopedics,P00973,success,6,41,True,False,2024-08-12
+D010,Dr. Julia Santos,Orthopedics,P00974,partial,8,21,False,False,2024-09-16
+D010,Dr. Julia Santos,Orthopedics,P00975,success,7,32,False,True,2024-11-10
+D010,Dr. Julia Santos,Orthopedics,P00976,success,8,17,False,True,2024-11-07
+D010,Dr. Julia Santos,Orthopedics,P00977,success,6,37,False,True,2024-09-11
+D010,Dr. Julia Santos,Orthopedics,P00978,failure,7,23,True,True,2024-09-20
+D010,Dr. Julia Santos,Orthopedics,P00979,success,7,20,False,True,2024-07-18
+D010,Dr. Julia Santos,Orthopedics,P00980,success,6,23,False,True,2024-07-08
+D010,Dr. Julia Santos,Orthopedics,P00981,partial,7,15,False,False,2024-12-09
+D010,Dr. Julia Santos,Orthopedics,P00982,partial,7,16,False,True,2024-08-18
+D010,Dr. Julia Santos,Orthopedics,P00983,success,8,15,False,True,2024-12-27
+D010,Dr. Julia Santos,Orthopedics,P00984,partial,6,42,False,False,2024-09-27
+D011,Dr. Kavita Rao,Oncology,P00985,success,8,25,False,True,2024-12-15
+D011,Dr. Kavita Rao,Oncology,P00986,success,8,39,False,True,2024-11-14
+D011,Dr. Kavita Rao,Oncology,P00987,success,10,38,False,True,2024-07-28
+D011,Dr. Kavita Rao,Oncology,P00988,success,10,22,False,True,2024-07-12
+D011,Dr. Kavita Rao,Oncology,P00989,success,10,16,False,True,2024-07-02
+D011,Dr. Kavita Rao,Oncology,P00990,success,9,16,False,True,2024-10-22
+D011,Dr. Kavita Rao,Oncology,P00991,success,9,11,False,True,2024-07-20
+D011,Dr. Kavita Rao,Oncology,P00992,success,9,13,False,True,2024-10-17
+D011,Dr. Kavita Rao,Oncology,P00993,success,9,14,False,True,2024-12-18
+D011,Dr. Kavita Rao,Oncology,P00994,success,10,10,False,True,2024-12-16
+D011,Dr. Kavita Rao,Oncology,P00995,partial,10,40,False,True,2024-09-04
+D011,Dr. Kavita Rao,Oncology,P00996,success,8,33,False,True,2024-09-21
+D011,Dr. Kavita Rao,Oncology,P00997,success,10,20,False,True,2024-12-02
+D011,Dr. Kavita Rao,Oncology,P00998,success,9,13,False,True,2024-10-04
+D011,Dr. Kavita Rao,Oncology,P00999,success,8,37,False,True,2024-09-04
+D011,Dr. Kavita Rao,Oncology,P01000,success,9,21,False,False,2024-10-20
+D011,Dr. Kavita Rao,Oncology,P01001,success,8,29,False,True,2024-08-01
+D011,Dr. Kavita Rao,Oncology,P01002,success,9,19,False,True,2024-07-25
+D011,Dr. Kavita Rao,Oncology,P01003,partial,10,22,False,True,2024-08-05
+D011,Dr. Kavita Rao,Oncology,P01004,success,10,36,False,True,2024-09-25
+D011,Dr. Kavita Rao,Oncology,P01005,success,10,29,False,True,2024-09-05
+D011,Dr. Kavita Rao,Oncology,P01006,success,8,44,False,True,2024-07-25
+D011,Dr. Kavita Rao,Oncology,P01007,success,7,22,False,True,2024-09-20
+D011,Dr. Kavita Rao,Oncology,P01008,partial,8,21,False,True,2024-08-16
+D011,Dr. Kavita Rao,Oncology,P01009,success,8,16,False,True,2024-12-15
+D011,Dr. Kavita Rao,Oncology,P01010,success,8,16,False,True,2024-11-24
+D011,Dr. Kavita Rao,Oncology,P01011,success,10,21,False,False,2024-07-04
+D011,Dr. Kavita Rao,Oncology,P01012,success,10,36,False,True,2024-10-16
+D011,Dr. Kavita Rao,Oncology,P01013,success,9,43,False,True,2024-08-28
+D011,Dr. Kavita Rao,Oncology,P01014,success,9,24,False,True,2024-10-12
+D011,Dr. Kavita Rao,Oncology,P01015,success,9,42,False,True,2024-07-02
+D011,Dr. Kavita Rao,Oncology,P01016,success,9,12,False,True,2024-10-04
+D011,Dr. Kavita Rao,Oncology,P01017,success,7,30,False,True,2024-10-07
+D011,Dr. Kavita Rao,Oncology,P01018,success,9,20,False,True,2024-12-04
+D011,Dr. Kavita Rao,Oncology,P01019,success,10,31,False,True,2024-08-10
+D011,Dr. Kavita Rao,Oncology,P01020,success,9,31,False,True,2024-08-31
+D011,Dr. Kavita Rao,Oncology,P01021,success,7,20,False,True,2024-11-10
+D011,Dr. Kavita Rao,Oncology,P01022,success,7,13,False,True,2024-07-20
+D011,Dr. Kavita Rao,Oncology,P01023,success,9,23,False,True,2024-11-06
+D011,Dr. Kavita Rao,Oncology,P01024,success,9,17,False,True,2024-12-26
+D011,Dr. Kavita Rao,Oncology,P01025,success,10,25,False,True,2024-09-17
+D011,Dr. Kavita Rao,Oncology,P01026,success,8,41,False,True,2024-11-18
+D011,Dr. Kavita Rao,Oncology,P01027,success,7,28,False,True,2024-11-12
+D011,Dr. Kavita Rao,Oncology,P01028,success,8,41,False,True,2024-12-22
+D011,Dr. Kavita Rao,Oncology,P01029,success,8,29,False,True,2024-10-19
+D011,Dr. Kavita Rao,Oncology,P01030,success,9,36,False,True,2024-10-03
+D011,Dr. Kavita Rao,Oncology,P01031,success,9,24,False,True,2024-09-06
+D011,Dr. Kavita Rao,Oncology,P01032,success,10,41,False,True,2024-08-13
+D011,Dr. Kavita Rao,Oncology,P01033,success,10,20,False,True,2024-10-05
+D011,Dr. Kavita Rao,Oncology,P01034,success,7,38,False,True,2024-12-20
+D011,Dr. Kavita Rao,Oncology,P01035,success,9,41,False,True,2024-11-14
+D011,Dr. Kavita Rao,Oncology,P01036,success,10,29,False,True,2024-10-24
+D011,Dr. Kavita Rao,Oncology,P01037,success,10,44,False,True,2024-07-19
+D011,Dr. Kavita Rao,Oncology,P01038,success,7,12,False,True,2024-11-17
+D011,Dr. Kavita Rao,Oncology,P01039,success,8,41,False,True,2024-12-06
+D011,Dr. Kavita Rao,Oncology,P01040,partial,9,41,False,True,2024-12-11
+D011,Dr. Kavita Rao,Oncology,P01041,success,10,23,False,True,2024-10-19
+D011,Dr. Kavita Rao,Oncology,P01042,success,10,33,False,True,2024-12-16
+D011,Dr. Kavita Rao,Oncology,P01043,partial,10,11,False,True,2024-12-19
+D011,Dr. Kavita Rao,Oncology,P01044,success,8,31,False,True,2024-09-16
+D011,Dr. Kavita Rao,Oncology,P01045,success,8,41,False,True,2024-08-13
+D011,Dr. Kavita Rao,Oncology,P01046,success,9,22,False,True,2024-11-27
+D011,Dr. Kavita Rao,Oncology,P01047,success,10,18,False,True,2024-11-12
+D011,Dr. Kavita Rao,Oncology,P01048,success,9,29,False,True,2024-09-07
+D011,Dr. Kavita Rao,Oncology,P01049,partial,9,40,False,True,2024-12-27
+D011,Dr. Kavita Rao,Oncology,P01050,partial,10,38,False,True,2024-07-21
+D011,Dr. Kavita Rao,Oncology,P01051,success,8,37,False,True,2024-11-02
+D011,Dr. Kavita Rao,Oncology,P01052,partial,9,23,False,True,2024-11-01
+D011,Dr. Kavita Rao,Oncology,P01053,success,9,35,False,True,2024-11-14
+D011,Dr. Kavita Rao,Oncology,P01054,success,10,27,False,True,2024-09-30
+D011,Dr. Kavita Rao,Oncology,P01055,success,10,20,False,True,2024-11-06
+D011,Dr. Kavita Rao,Oncology,P01056,success,9,39,False,True,2024-09-20
+D011,Dr. Kavita Rao,Oncology,P01057,success,9,18,False,True,2024-09-04
+D011,Dr. Kavita Rao,Oncology,P01058,success,8,21,False,True,2024-08-11
+D011,Dr. Kavita Rao,Oncology,P01059,success,9,26,False,True,2024-07-18
+D011,Dr. Kavita Rao,Oncology,P01060,success,8,29,False,True,2024-11-04
+D011,Dr. Kavita Rao,Oncology,P01061,success,8,37,False,True,2024-12-17
+D011,Dr. Kavita Rao,Oncology,P01062,success,8,11,False,True,2024-10-28
+D011,Dr. Kavita Rao,Oncology,P01063,success,8,31,False,True,2024-10-01
+D011,Dr. Kavita Rao,Oncology,P01064,success,9,21,False,True,2024-07-23
+D011,Dr. Kavita Rao,Oncology,P01065,success,9,20,False,True,2024-07-24
+D011,Dr. Kavita Rao,Oncology,P01066,success,9,31,False,True,2024-12-24
+D011,Dr. Kavita Rao,Oncology,P01067,success,8,37,False,True,2024-08-20
+D011,Dr. Kavita Rao,Oncology,P01068,success,8,15,False,True,2024-07-22
+D011,Dr. Kavita Rao,Oncology,P01069,success,9,39,False,True,2024-12-21
+D011,Dr. Kavita Rao,Oncology,P01070,success,10,28,False,True,2024-10-06
+D011,Dr. Kavita Rao,Oncology,P01071,success,10,26,False,True,2024-07-05
+D011,Dr. Kavita Rao,Oncology,P01072,success,8,14,False,True,2024-10-08
+D011,Dr. Kavita Rao,Oncology,P01073,success,8,30,False,True,2024-10-04
+D011,Dr. Kavita Rao,Oncology,P01074,success,8,26,False,True,2024-11-25
+D011,Dr. Kavita Rao,Oncology,P01075,success,8,38,False,True,2024-08-24
+D011,Dr. Kavita Rao,Oncology,P01076,success,10,18,False,True,2024-07-18
+D011,Dr. Kavita Rao,Oncology,P01077,success,8,23,False,True,2024-08-18
+D011,Dr. Kavita Rao,Oncology,P01078,success,9,15,False,True,2024-09-23
+D011,Dr. Kavita Rao,Oncology,P01079,success,9,22,False,True,2024-08-17
+D011,Dr. Kavita Rao,Oncology,P01080,success,9,11,False,True,2024-11-22
+D011,Dr. Kavita Rao,Oncology,P01081,success,9,20,False,True,2024-10-07
+D011,Dr. Kavita Rao,Oncology,P01082,success,8,34,False,True,2024-07-25
+D011,Dr. Kavita Rao,Oncology,P01083,success,10,23,False,True,2024-08-21
+D011,Dr. Kavita Rao,Oncology,P01084,partial,10,17,False,True,2024-11-28
+D011,Dr. Kavita Rao,Oncology,P01085,success,9,28,False,True,2024-07-29
+D011,Dr. Kavita Rao,Oncology,P01086,success,8,11,False,True,2024-12-19
+D011,Dr. Kavita Rao,Oncology,P01087,success,9,43,False,True,2024-09-25
+D011,Dr. Kavita Rao,Oncology,P01088,success,9,38,False,True,2024-09-30
+D011,Dr. Kavita Rao,Oncology,P01089,success,9,15,False,True,2024-09-20
+D011,Dr. Kavita Rao,Oncology,P01090,success,10,37,False,True,2024-12-22
+D011,Dr. Kavita Rao,Oncology,P01091,success,9,14,False,True,2024-11-04
+D011,Dr. Kavita Rao,Oncology,P01092,success,10,43,False,True,2024-11-09
+D011,Dr. Kavita Rao,Oncology,P01093,partial,10,40,False,True,2024-07-24
+D011,Dr. Kavita Rao,Oncology,P01094,partial,8,22,False,True,2024-08-19
+D011,Dr. Kavita Rao,Oncology,P01095,partial,10,41,False,True,2024-07-04
+D012,Dr. Liam Walsh,General Medicine,P01096,success,8,44,False,True,2024-09-20
+D012,Dr. Liam Walsh,General Medicine,P01097,success,6,19,False,True,2024-07-28
+D012,Dr. Liam Walsh,General Medicine,P01098,partial,6,10,False,True,2024-10-07
+D012,Dr. Liam Walsh,General Medicine,P01099,success,8,41,False,True,2024-08-20
+D012,Dr. Liam Walsh,General Medicine,P01100,success,7,40,False,True,2024-07-28
+D012,Dr. Liam Walsh,General Medicine,P01101,success,6,42,False,True,2024-07-06
+D012,Dr. Liam Walsh,General Medicine,P01102,partial,7,31,False,True,2024-08-02
+D012,Dr. Liam Walsh,General Medicine,P01103,partial,6,11,False,True,2024-12-17
+D012,Dr. Liam Walsh,General Medicine,P01104,partial,7,18,False,True,2024-07-18
+D012,Dr. Liam Walsh,General Medicine,P01105,success,6,31,False,False,2024-11-08
+D012,Dr. Liam Walsh,General Medicine,P01106,success,7,32,False,True,2024-09-06
+D012,Dr. Liam Walsh,General Medicine,P01107,success,8,39,False,False,2024-08-12
+D012,Dr. Liam Walsh,General Medicine,P01108,success,7,31,False,True,2024-12-24
+D012,Dr. Liam Walsh,General Medicine,P01109,success,9,24,False,True,2024-10-29
+D012,Dr. Liam Walsh,General Medicine,P01110,partial,6,11,False,True,2024-07-24
+D012,Dr. Liam Walsh,General Medicine,P01111,success,6,21,False,True,2024-12-18
+D012,Dr. Liam Walsh,General Medicine,P01112,success,7,32,False,True,2024-10-05
+D012,Dr. Liam Walsh,General Medicine,P01113,success,6,43,False,True,2024-07-30
+D012,Dr. Liam Walsh,General Medicine,P01114,success,6,13,False,True,2024-09-19
+D012,Dr. Liam Walsh,General Medicine,P01115,success,8,21,True,True,2024-11-15
+D012,Dr. Liam Walsh,General Medicine,P01116,partial,7,19,False,True,2024-11-22
+D012,Dr. Liam Walsh,General Medicine,P01117,success,6,10,True,True,2024-07-02
+D012,Dr. Liam Walsh,General Medicine,P01118,success,7,41,False,True,2024-10-10
+D012,Dr. Liam Walsh,General Medicine,P01119,success,7,34,True,True,2024-10-10
+D012,Dr. Liam Walsh,General Medicine,P01120,success,7,44,False,True,2024-09-09
+D012,Dr. Liam Walsh,General Medicine,P01121,success,7,11,False,True,2024-10-20
+D012,Dr. Liam Walsh,General Medicine,P01122,success,8,35,False,True,2024-10-27
+D012,Dr. Liam Walsh,General Medicine,P01123,success,8,14,False,True,2024-11-16
+D012,Dr. Liam Walsh,General Medicine,P01124,success,8,15,False,False,2024-07-08
+D012,Dr. Liam Walsh,General Medicine,P01125,success,7,29,False,True,2024-11-29
+D012,Dr. Liam Walsh,General Medicine,P01126,success,7,11,False,True,2024-10-30
+D012,Dr. Liam Walsh,General Medicine,P01127,partial,7,30,False,True,2024-10-28
+D012,Dr. Liam Walsh,General Medicine,P01128,success,6,25,False,True,2024-10-05
+D012,Dr. Liam Walsh,General Medicine,P01129,success,6,27,False,True,2024-07-28
+D012,Dr. Liam Walsh,General Medicine,P01130,success,7,41,False,True,2024-08-26
+D012,Dr. Liam Walsh,General Medicine,P01131,success,7,12,False,True,2024-07-16
+D012,Dr. Liam Walsh,General Medicine,P01132,success,8,16,False,True,2024-11-28
+D012,Dr. Liam Walsh,General Medicine,P01133,success,6,42,True,True,2024-08-12
+D012,Dr. Liam Walsh,General Medicine,P01134,partial,6,25,False,False,2024-09-07
+D012,Dr. Liam Walsh,General Medicine,P01135,failure,8,13,False,True,2024-07-18
+D012,Dr. Liam Walsh,General Medicine,P01136,success,6,34,False,False,2024-12-07
+D012,Dr. Liam Walsh,General Medicine,P01137,success,8,11,False,True,2024-07-13
+D012,Dr. Liam Walsh,General Medicine,P01138,success,6,11,False,True,2024-08-09
+D012,Dr. Liam Walsh,General Medicine,P01139,success,8,12,False,True,2024-11-14
+D012,Dr. Liam Walsh,General Medicine,P01140,success,8,29,False,False,2024-09-09
+D012,Dr. Liam Walsh,General Medicine,P01141,success,8,35,True,False,2024-12-18
+D012,Dr. Liam Walsh,General Medicine,P01142,success,8,38,False,True,2024-12-26
+D012,Dr. Liam Walsh,General Medicine,P01143,failure,6,27,False,True,2024-08-30
+D012,Dr. Liam Walsh,General Medicine,P01144,success,8,39,False,True,2024-11-08
+D012,Dr. Liam Walsh,General Medicine,P01145,success,8,43,False,True,2024-07-02
+D012,Dr. Liam Walsh,General Medicine,P01146,success,8,27,False,True,2024-09-30
+D012,Dr. Liam Walsh,General Medicine,P01147,success,8,13,False,True,2024-11-30
+D012,Dr. Liam Walsh,General Medicine,P01148,success,7,18,False,False,2024-11-30
+D012,Dr. Liam Walsh,General Medicine,P01149,success,7,36,False,True,2024-10-10
+D012,Dr. Liam Walsh,General Medicine,P01150,success,8,40,True,False,2024-08-30
+D012,Dr. Liam Walsh,General Medicine,P01151,success,7,32,True,True,2024-09-29
+D012,Dr. Liam Walsh,General Medicine,P01152,success,8,42,False,True,2024-09-28
+D012,Dr. Liam Walsh,General Medicine,P01153,success,7,21,True,True,2024-11-28
+D012,Dr. Liam Walsh,General Medicine,P01154,success,8,28,False,False,2024-09-23
+D012,Dr. Liam Walsh,General Medicine,P01155,success,7,17,False,True,2024-09-21
+D012,Dr. Liam Walsh,General Medicine,P01156,success,9,34,False,True,2024-12-06
+D012,Dr. Liam Walsh,General Medicine,P01157,success,8,20,False,True,2024-07-25
+D012,Dr. Liam Walsh,General Medicine,P01158,success,8,16,True,True,2024-12-04
+D012,Dr. Liam Walsh,General Medicine,P01159,success,9,17,False,True,2024-12-25
+D012,Dr. Liam Walsh,General Medicine,P01160,success,8,36,False,True,2024-08-27
+D012,Dr. Liam Walsh,General Medicine,P01161,success,8,15,False,True,2024-07-15
+D012,Dr. Liam Walsh,General Medicine,P01162,success,8,43,False,True,2024-10-03
+D012,Dr. Liam Walsh,General Medicine,P01163,success,6,36,False,False,2024-10-02
+D012,Dr. Liam Walsh,General Medicine,P01164,success,7,17,True,True,2024-10-05
+D012,Dr. Liam Walsh,General Medicine,P01165,success,7,33,False,True,2024-12-12
+D012,Dr. Liam Walsh,General Medicine,P01166,success,7,26,False,True,2024-07-05
+D012,Dr. Liam Walsh,General Medicine,P01167,success,6,42,False,True,2024-07-22
+D012,Dr. Liam Walsh,General Medicine,P01168,success,8,30,False,False,2024-09-30
+D012,Dr. Liam Walsh,General Medicine,P01169,partial,8,17,False,True,2024-09-30
+D012,Dr. Liam Walsh,General Medicine,P01170,success,8,20,False,True,2024-09-23
+D012,Dr. Liam Walsh,General Medicine,P01171,success,8,36,False,True,2024-11-23
+D012,Dr. Liam Walsh,General Medicine,P01172,success,6,35,False,True,2024-09-30
+D012,Dr. Liam Walsh,General Medicine,P01173,success,8,18,False,False,2024-11-18
+D012,Dr. Liam Walsh,General Medicine,P01174,success,8,44,False,True,2024-12-03
+D012,Dr. Liam Walsh,General Medicine,P01175,success,8,24,False,True,2024-11-03
+D012,Dr. Liam Walsh,General Medicine,P01176,success,8,35,True,False,2024-11-14
+D012,Dr. Liam Walsh,General Medicine,P01177,success,8,10,True,True,2024-10-26
+D012,Dr. Liam Walsh,General Medicine,P01178,partial,6,39,False,True,2024-10-28
+D012,Dr. Liam Walsh,General Medicine,P01179,success,7,30,True,True,2024-08-17
+D012,Dr. Liam Walsh,General Medicine,P01180,failure,8,11,True,True,2024-10-13
+D012,Dr. Liam Walsh,General Medicine,P01181,success,7,37,False,True,2024-08-07
+D012,Dr. Liam Walsh,General Medicine,P01182,success,7,35,False,True,2024-11-13
+D012,Dr. Liam Walsh,General Medicine,P01183,success,9,25,False,True,2024-07-19
+D012,Dr. Liam Walsh,General Medicine,P01184,failure,7,10,False,True,2024-08-31
+D012,Dr. Liam Walsh,General Medicine,P01185,success,9,34,False,True,2024-09-30
+D012,Dr. Liam Walsh,General Medicine,P01186,success,7,27,False,False,2024-07-31
+D012,Dr. Liam Walsh,General Medicine,P01187,success,8,28,False,False,2024-12-21
