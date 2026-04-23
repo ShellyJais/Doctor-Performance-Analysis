@@ -54,19 +54,38 @@ from sample_data import generate_mock_dataset
 st.set_page_config(page_title="Doctor Performance Analysis", page_icon="🩺", layout="wide")
 st.markdown("""
 <style>
-.stButton button:hover {
-    border: 1px solid #3B82F6;
-    box-shadow: 0 0 8px rgba(59,130,246,0.4);
+
+/* App background */
+.stApp {
+    background-color: #F9FAFB;
 }
 
-.stMetric {
-    transition: all 0.2s ease-in-out;
+/* Buttons hover */
+button:hover {
+    border: 1px solid #3B82F6 !important;
+    box-shadow: 0 0 10px rgba(59,130,246,0.3);
 }
 
-.stMetric:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-    transform: translateY(-2px);
+/* Metric cards */
+[data-testid="stMetric"] {
+    background-color: white;
+    padding: 15px;
+    border-radius: 12px;
+    border: 1px solid #E5E7EB;
 }
+
+/* Metric hover */
+[data-testid="stMetric"]:hover {
+    box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+    transform: translateY(-3px);
+    transition: 0.2s;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #FFFFFF;
+}
+
 </style>
 """, unsafe_allow_html=True)
 st.title("🏥 Doctor Performance Analysis System")
@@ -115,27 +134,61 @@ if section == "Upload":
 
 # ---------- DASHBOARD ----------
 elif section == "Dashboard":
-    st.header("Overview")
+
+    # ---------- HEADER ----------
+    st.markdown("## 🏥 Dashboard Overview")
+    st.markdown("Monitor doctor performance, efficiency, and patient outcomes")
+    st.markdown("---")
+
+    # ---------- FILTER ----------
     specs = ["All"] + sorted(kpis["specialization"].unique().tolist())
-    spec = st.selectbox("Specialization", specs)
+    spec = st.selectbox("Filter by Specialization", specs)
     view = kpis if spec == "All" else kpis[kpis["specialization"] == spec]
 
-    c1, c2, c3, c4, c5, c6 = st.columns(6)
-    c1.metric("Doctors", len(view))
-    c2.metric("Success rate", f"{view['success_rate'].mean():.1f}%")
-    c3.metric("Satisfaction", f"{view['satisfaction'].mean():.2f}/10")
-    c4.metric("Avg consult", f"{view['avg_consultation'].mean():.1f} min")
-    c5.metric("Readmission", f"{view['readmission_rate'].mean():.1f}%")
-    c6.metric("Diag. accuracy", f"{view['diagnosis_accuracy'].mean():.1f}%")
+    # ---------- KPI CARDS ----------
+    st.markdown("### 📊 Key Metrics")
 
-    left, right = st.columns(2)
-    left.plotly_chart(bar_top_doctors(view), use_container_width=True)
-    right.plotly_chart(line_trend(monthly_success_trend(df)), use_container_width=True)
+    c1, c2, c3, c4, c5 = st.columns(5)
 
-    st.subheader("Doctor ranking")
+    c1.metric("👨‍⚕️ Doctors", len(view))
+    c2.metric("✅ Success", f"{view['success_rate'].mean():.1f}%")
+    c3.metric("⭐ Satisfaction", f"{view['satisfaction'].mean():.2f}/10")
+    c4.metric("⏱ Avg Time", f"{view['avg_consultation'].mean():.1f} min")
+    c5.metric("🔁 Readmit", f"{view['readmission_rate'].mean():.1f}%")
+
+    st.markdown("---")
+
+    # ---------- CHARTS ----------
+    st.markdown("### 📈 Performance Insights")
+
+    col1, col2 = st.columns([1.2, 1])
+
+    with col1:
+        st.markdown("#### 🏆 Top Performing Doctors")
+        st.plotly_chart(bar_top_doctors(view), use_container_width=True)
+
+    with col2:
+        st.markdown("#### 📉 Monthly Trends")
+        st.plotly_chart(line_trend(monthly_success_trend(df)), use_container_width=True)
+
+    st.markdown("---")
+
+    # ---------- HEATMAP ----------
+    st.markdown("### 🧠 Specialization Insights")
+    st.plotly_chart(heatmap_specialization(view), use_container_width=True)
+
+    st.markdown("---")
+
+    # ---------- TABLE ----------
+    st.markdown("### 🏆 Doctor Ranking")
+
     show = view.copy()
-    show["status"] = show["flagged"].map({True: "⚠ Flagged", False: "✅ OK"})
-    st.dataframe(show.drop(columns=["flagged"]), use_container_width=True)
+    show["status"] = show["flagged"].map({True: "⚠️ Needs Attention", False: "✅ Good"})
+
+    st.dataframe(
+        show.drop(columns=["flagged"]),
+        use_container_width=True
+    )
 
 # ---------- COMPARE ----------
 elif section == "Compare":
