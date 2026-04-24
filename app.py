@@ -55,35 +55,53 @@ st.set_page_config(page_title="Doctor Performance Analysis", page_icon="🩺", l
 st.markdown("""
 <style>
 
-/* App background */
+/* Background */
 .stApp {
     background-color: #F9FAFB;
+    color: #111827;
 }
 
-/* Buttons hover */
-button:hover {
-    border: 1px solid #3B82F6 !important;
-    box-shadow: 0 0 10px rgba(59,130,246,0.3);
+/* Force text visibility */
+h1, h2, h3, h4, h5, h6, p, span, label {
+    color: #111827 !important;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #FFFFFF;
+    color: #111827;
+}
+
+/* Dropdown / select */
+div[data-baseweb="select"] {
+    background-color: white !important;
+    color: black !important;
 }
 
 /* Metric cards */
 [data-testid="stMetric"] {
-    background-color: white;
+    background-color: #FFFFFF;
     padding: 15px;
     border-radius: 12px;
     border: 1px solid #E5E7EB;
+    color: #111827;
 }
 
-/* Metric hover */
+/* Hover effect */
 [data-testid="stMetric"]:hover {
     box-shadow: 0 6px 18px rgba(0,0,0,0.08);
     transform: translateY(-3px);
     transition: 0.2s;
 }
 
-/* Sidebar */
-section[data-testid="stSidebar"] {
-    background-color: #FFFFFF;
+/* Buttons */
+button {
+    color: #111827 !important;
+}
+
+/* Fix labels */
+.css-1cpxqw2 {
+    color: black !important;
 }
 
 </style>
